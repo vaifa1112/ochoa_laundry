@@ -1,0 +1,1001 @@
+address_id,user_id,street_address,area,city,latitude,longitude,postal_code
+1,9,516 Lakewood Gardens Court,Bintaro,Tangerang Selatan,-21.1291403,-42.3702252,36880-000
+2,15,09660 Bluejay Circle,BSD,Tangerang Selatan,43.5958543,5.1190026,13662 CEDEX
+3,5,84 Hudson Hill,BSD,Tangerang Selatan,9.823961,-84.927454,60105
+4,17,8063 Oakridge Pass,Pamulang,Tangerang Selatan,17.4161103,99.7790227,64130
+5,25,0124 Annamark Place,Pamulang,Tangerang Selatan,42.5317628,72.2304571,
+6,9,01 Katie Avenue,Pamulang,Tangerang Selatan,30.128901,104.627636,
+7,14,235 Park Meadow Junction,BSD,Tangerang Selatan,-7.012244,111.3798928,
+8,7,6745 Corry Center,Pamulang,Tangerang Selatan,13.3656061,123.3810275,6525
+9,1,37903 Tennyson Hill,Bintaro,Tangerang Selatan,28.5833617,-81.4760857,32868
+10,17,96769 Pine View Trail,Bintaro,Tangerang Selatan,28.65664,108.504872,
+11,26,2 Spenser Trail,BSD,Tangerang Selatan,2.7523555,98.5116903,
+12,28,49 Garrison Place,Bintaro,Tangerang Selatan,6.878872,126.169972,9611
+13,9,02424 Parkside Pass,Bintaro,Tangerang Selatan,7.5521655,125.7343514,8113
+14,25,81 Dottie Way,Bintaro,Tangerang Selatan,36.068172,120.395912,
+15,7,3054 7th Way,Bintaro,Tangerang Selatan,41.4619291,-8.0178037,4890-372
+16,6,6 Farmco Lane,Bintaro,Tangerang Selatan,22.937244,113.384129,
+17,11,2 Buena Vista Center,Pamulang,Tangerang Selatan,-7.4011226,111.5110576,
+18,7,1301 Heffernan Pass,BSD,Tangerang Selatan,-7.0062,112.0295,
+19,3,6533 Melvin Terrace,Pamulang,Tangerang Selatan,-23.7047572,-49.4823246,18480-000
+20,5,5 4th Hill,BSD,Tangerang Selatan,31.805855,119.188203,
+21,9,2 Caliangt Lane,Pamulang,Tangerang Selatan,44.4369429,15.076898,23250
+22,18,6 Anzinger Road,Pamulang,Tangerang Selatan,-18.1112146,21.6198661,
+23,13,1952 Clove Park,BSD,Tangerang Selatan,13.6361135,123.1924955,4500
+24,1,95 Eggendart Drive,BSD,Tangerang Selatan,43.5377939,10.383479,57124
+25,9,64304 Thackeray Center,Pamulang,Tangerang Selatan,44.6658941,20.9335169,
+26,6,846 Mockingbird Plaza,Pamulang,Tangerang Selatan,35.326057,67.6364059,
+27,6,3 Drewry Circle,BSD,Tangerang Selatan,50.0628163,19.722311,32-064
+28,12,46 Rigney Terrace,BSD,Tangerang Selatan,42.1088311,21.553379,1315
+29,25,4688 Ridgeway Junction,Pamulang,Tangerang Selatan,-6.669221,106.0463837,
+30,1,7 Mallory Point,Bintaro,Tangerang Selatan,46.9962539,28.8716267,MD-7702
+31,12,3 Truax Crossing,Bintaro,Tangerang Selatan,-11.3826999,-75.7560455,
+32,25,7 Golf View Circle,Pamulang,Tangerang Selatan,37.7241501,126.2322458,
+33,20,77 Sycamore Pass,BSD,Tangerang Selatan,54.13607,19.00874,82-230
+34,10,9418 Caliangt Place,Pamulang,Tangerang Selatan,16.6143698,-7.2598913,
+35,5,74 Bonner Trail,Bintaro,Tangerang Selatan,62.2600127,17.3781406,862 24
+36,4,1316 Jackson Road,BSD,Tangerang Selatan,31.070643,113.943274,
+37,10,23 Dayton Street,Pamulang,Tangerang Selatan,45.2220415,14.6312221,51264
+38,21,385 Eastwood Alley,BSD,Tangerang Selatan,13.1981877,-87.3785917,
+39,11,90233 Browning Circle,BSD,Tangerang Selatan,24.34712,117.174685,
+40,25,15 Kedzie Way,Bintaro,Tangerang Selatan,1.0620859,104.2366983,
+41,22,103 Lillian Hill,Pamulang,Tangerang Selatan,4.974252,-74.291386,253608
+42,2,2055 Nobel Parkway,Bintaro,Tangerang Selatan,38.6407826,-9.0955246,2840-466
+43,24,45208 Elmside Circle,BSD,Tangerang Selatan,54.5156,28.9587,
+44,29,9 Mcbride Drive,Pamulang,Tangerang Selatan,52.6244001,20.3835279,09-101
+45,7,15634 Brown Court,Bintaro,Tangerang Selatan,-7.4727879,109.0274877,
+46,6,2940 Kensington Plaza,Bintaro,Tangerang Selatan,47.2120001,29.1617,MD-4801
+47,25,6269 Hagan Center,Pamulang,Tangerang Selatan,58.2804163,12.2979387,461 25
+48,22,13 Bartelt Road,Bintaro,Tangerang Selatan,32.4937455,-116.9552547,51462
+49,20,52 Messerschmidt Junction,Bintaro,Tangerang Selatan,25.386379,114.922922,
+50,17,1577 Nelson Court,Bintaro,Tangerang Selatan,51.8976469,21.8061634,08-420
+51,24,6 Arizona Crossing,Pamulang,Tangerang Selatan,49.7243301,93.2681254,
+52,6,82374 Dorton Trail,Pamulang,Tangerang Selatan,59.454973,13.7250925,655 94
+53,18,84586 Dennis Plaza,BSD,Tangerang Selatan,48.8313352,58.1488829,
+54,9,131 Charing Cross Park,Pamulang,Tangerang Selatan,32.010214,119.606439,
+55,26,00 Lakeland Lane,Bintaro,Tangerang Selatan,14.5618599,121.0130439,4602
+56,10,75439 Portage Crossing,Pamulang,Tangerang Selatan,30.453667,114.872199,
+57,6,79694 Carpenter Way,BSD,Tangerang Selatan,45.3876043,18.8966831,32010
+58,19,9 Scoville Junction,Pamulang,Tangerang Selatan,51.1529103,17.2602307,55-093
+59,12,42180 Truax Place,Pamulang,Tangerang Selatan,-6.8575149,107.6422488,
+60,9,579 Basil Center,Bintaro,Tangerang Selatan,52.6567115,22.2089639,08-322
+61,26,02 Dwight Place,Bintaro,Tangerang Selatan,18.9364797,-70.41976,10412
+62,22,70 Washington Alley,Bintaro,Tangerang Selatan,-16.9794093,-67.2162619,
+63,4,1 Southridge Terrace,BSD,Tangerang Selatan,-26.3749827,-49.0615086,89275-000
+64,17,0 Algoma Street,Pamulang,Tangerang Selatan,12.4579462,107.8169229,
+65,23,31 Hovde Point,BSD,Tangerang Selatan,44.9346438,128.7694378,
+66,18,564 Rutledge Place,BSD,Tangerang Selatan,12.9707642,101.2163774,21140
+67,23,0059 Granby Avenue,Bintaro,Tangerang Selatan,-3.4142906,-39.0303806,62680-000
+68,29,70 South Way,Pamulang,Tangerang Selatan,14.5042265,120.9969782,9217
+69,21,4347 Crownhardt Way,BSD,Tangerang Selatan,40.4918264,-7.5954135,6290-311
+70,6,73 Menomonie Road,BSD,Tangerang Selatan,16.4543173,97.6439611,
+71,26,08 Lakewood Gardens Terrace,Pamulang,Tangerang Selatan,-8.2464,115.5631,
+72,28,405 Fieldstone Court,Bintaro,Tangerang Selatan,35.4252373,139.9386123,299-0271
+73,29,77 Valley Edge Street,Bintaro,Tangerang Selatan,19.4146406,-99.1395519,96370
+74,12,3 Hauk Terrace,Pamulang,Tangerang Selatan,-4.5261835,104.0769024,
+75,17,4 Prairie Rose Avenue,Bintaro,Tangerang Selatan,-3.7600304,-38.5349814,60000-000
+76,28,669 Stone Corner Street,BSD,Tangerang Selatan,-7.7232567,113.4686802,
+77,26,41 Columbus Parkway,Bintaro,Tangerang Selatan,23.365556,116.70345,
+78,10,2 Monterey Drive,Bintaro,Tangerang Selatan,0.8150687,-77.7165925,
+79,8,137 Towne Drive,Pamulang,Tangerang Selatan,30.69,-88.06,36641
+80,30,9 Mallory Drive,Pamulang,Tangerang Selatan,6.0318676,125.1290351,9500
+81,2,97 Morrow Street,Bintaro,Tangerang Selatan,51.9886098,81.8433417,659700
+82,19,052 Crescent Oaks Way,Bintaro,Tangerang Selatan,25.941937,117.365052,
+83,30,8 Hazelcrest Pass,BSD,Tangerang Selatan,39.927952,21.80854,
+84,16,52 Bowman Alley,Pamulang,Tangerang Selatan,-7.1733576,113.5103504,
+85,1,0169 Bultman Avenue,BSD,Tangerang Selatan,60.0456385,30.3403569,190990
+86,12,52425 Erie Avenue,Bintaro,Tangerang Selatan,4.8980694,119.8492473,7505
+87,25,2 Melvin Circle,Bintaro,Tangerang Selatan,26.647932,107.917448,
+88,27,52482 Main Plaza,BSD,Tangerang Selatan,60.3882249,5.3185835,5007
+89,13,72936 Center Lane,BSD,Tangerang Selatan,39.7601611,116.3169416,
+90,4,2 Superior Pass,Bintaro,Tangerang Selatan,31.627447,121.022581,
+91,30,14 High Crossing Point,Bintaro,Tangerang Selatan,-7.15232,112.90936,
+92,20,7 Anhalt Plaza,Bintaro,Tangerang Selatan,7.59464,6.22476,
+93,15,55064 2nd Court,Bintaro,Tangerang Selatan,34.7173896,135.3372233,663-8234
+94,23,869 Morning Drive,Pamulang,Tangerang Selatan,51.6782846,19.4187015,95-054
+95,26,16 Fairview Alley,Bintaro,Tangerang Selatan,46.6669865,3.590421,26953 CEDEX 9
+96,16,76 Grover Street,Bintaro,Tangerang Selatan,16.269546,103.035694,44140
+97,4,7968 Gerald Pass,Bintaro,Tangerang Selatan,14.6507289,-90.5128018,02015
+98,14,7932 Mcbride Center,BSD,Tangerang Selatan,16.098935,-88.8094906,
+99,20,00110 Shasta Drive,Bintaro,Tangerang Selatan,32.5067042,36.8519377,
+100,24,96384 Becker Court,Pamulang,Tangerang Selatan,57.4357357,13.9788932,568 92
+101,30,91 Esker Center,BSD,Tangerang Selatan,18.9364797,-70.41976,10412
+102,25,8787 2nd Circle,Bintaro,Tangerang Selatan,43.4931556,5.3698187,13858 CEDEX 3
+103,14,3822 Lakewood Park,Pamulang,Tangerang Selatan,42.1811386,69.8824972,
+104,5,3 Loomis Parkway,BSD,Tangerang Selatan,37.8456119,68.7989617,
+105,28,56384 Towne Point,Bintaro,Tangerang Selatan,27.190708,109.818685,
+106,16,59 Shopko Alley,BSD,Tangerang Selatan,-7.3475648,108.1576908,
+107,15,30153 Knutson Hill,Pamulang,Tangerang Selatan,0.0319573,-78.1507423,
+108,24,16 Arkansas Drive,Bintaro,Tangerang Selatan,-21.3601809,-48.2282659,14840-000
+109,11,623 La Follette Place,Bintaro,Tangerang Selatan,-9.408551,119.3192266,
+110,22,8 Sachs Plaza,Pamulang,Tangerang Selatan,38.895126,117.005412,
+111,24,93 Summit Court,BSD,Tangerang Selatan,59.9263628,10.779541,0571
+112,19,93622 Main Street,BSD,Tangerang Selatan,45.0738432,-67.0530897,E5B
+113,29,21 Bluestem Park,Pamulang,Tangerang Selatan,-9.594324,124.1754442,
+114,30,599 Lakewood Gardens Circle,BSD,Tangerang Selatan,53.302644,-9.159604,A41
+115,6,2946 Vahlen Avenue,Bintaro,Tangerang Selatan,24.77848,110.496593,
+116,13,08074 Havey Street,Bintaro,Tangerang Selatan,-0.1624837,-50.0000408,46825-000
+117,14,475 Mcbride Pass,BSD,Tangerang Selatan,53.9476748,32.8565262,216507
+118,12,38309 Luster Crossing,BSD,Tangerang Selatan,42.5187534,27.4772798,8000
+119,17,82798 Butterfield Point,BSD,Tangerang Selatan,49.1441362,6.1519975,57751 CEDEX 9
+120,7,081 Maywood Crossing,Bintaro,Tangerang Selatan,6.9463216,1.1688978,
+121,12,88945 Sullivan Park,BSD,Tangerang Selatan,11.40567,29.13859,
+122,3,43034 Basil Center,BSD,Tangerang Selatan,7.38153,-73.919121,135067
+123,15,3564 Bonner Road,Pamulang,Tangerang Selatan,53.6693538,23.8131306,
+124,27,33142 Lerdahl Crossing,Pamulang,Tangerang Selatan,9.029518,1.4168974,
+125,14,26530 Fordem Street,Bintaro,Tangerang Selatan,43.6218385,3.8403455,34087 CEDEX 4
+126,8,35 Spaight Park,Pamulang,Tangerang Selatan,8.9282133,-74.5697617,132527
+127,11,0 Maple Pass,Pamulang,Tangerang Selatan,-10.5102117,-37.0530033,49700-000
+128,18,9 Schmedeman Drive,Pamulang,Tangerang Selatan,39.944315,116.809657,
+129,23,183 Buena Vista Parkway,BSD,Tangerang Selatan,57.6491924,11.8884682,426 57
+130,29,2016 Delaware Way,BSD,Tangerang Selatan,41.1455736,23.9066108,
+131,23,7 Golf Place,BSD,Tangerang Selatan,35.6707473,66.0463534,
+132,7,3287 Toban Crossing,BSD,Tangerang Selatan,-26.433666,29.460311,4935
+133,13,0 Eagle Crest Drive,Pamulang,Tangerang Selatan,27.895558,115.455558,
+134,4,305 Butterfield Circle,Bintaro,Tangerang Selatan,56.2249698,32.771328,182156
+135,12,96 Hallows Circle,Pamulang,Tangerang Selatan,-6.7152549,111.4246078,
+136,2,28833 Florence Street,Bintaro,Tangerang Selatan,5.414515,100.329744,10612
+137,13,8864 Quincy Crossing,Bintaro,Tangerang Selatan,-8.2879909,114.6281974,
+138,4,1727 Elmside Junction,Pamulang,Tangerang Selatan,28.782431,113.122376,
+139,20,57940 Hanson Plaza,Pamulang,Tangerang Selatan,-6.3398714,108.2970692,
+140,20,48733 Spenser Court,Pamulang,Tangerang Selatan,5.768717,-72.831906,152047
+141,8,71174 Larry Place,Pamulang,Tangerang Selatan,41.3427327,-8.5959297,4785-512
+142,13,1368 Prairie Rose Hill,Pamulang,Tangerang Selatan,28.960671,111.889793,
+143,29,68 Buena Vista Trail,Bintaro,Tangerang Selatan,59.3514599,17.9843165,171 49
+144,4,776 Mifflin Point,BSD,Tangerang Selatan,-21.2525138,-48.3256762,14870-000
+145,13,1994 Eggendart Lane,BSD,Tangerang Selatan,50.7881573,4.4180065,1170
+146,20,56 West Junction,BSD,Tangerang Selatan,-21.5367935,-43.0129853,36680-000
+147,25,605 Ridgeview Trail,Bintaro,Tangerang Selatan,46.986639,128.0324209,
+148,10,22 Armistice Center,Pamulang,Tangerang Selatan,30.864034,120.09953,
+149,24,4 Fair Oaks Point,BSD,Tangerang Selatan,31.2278735,121.5194667,
+150,28,896 Kipling Terrace,BSD,Tangerang Selatan,-6.2676999,106.2904635,
+151,15,047 Susan Court,BSD,Tangerang Selatan,18.6220301,-99.1559935,62984
+152,10,75 Northview Place,Pamulang,Tangerang Selatan,24.9372186,118.6422409,
+153,6,3045 Clyde Gallagher Avenue,Pamulang,Tangerang Selatan,38.5328,-28.626058,9900-016
+154,4,4506 Hauk Way,Bintaro,Tangerang Selatan,-8.1233399,115.3389332,
+155,27,1 Ridgeview Street,Bintaro,Tangerang Selatan,45.4514411,18.6589341,31215
+156,25,47 Transport Street,Pamulang,Tangerang Selatan,23.018033,-82.3343375,
+157,2,5 Haas Circle,BSD,Tangerang Selatan,63.8191979,20.2821264,903 33
+158,23,47 Roxbury Way,Pamulang,Tangerang Selatan,14.6404686,120.9915504,5031
+159,25,6355 Kings Drive,Bintaro,Tangerang Selatan,49.7979502,21.0782963,33-163
+160,4,45912 Westerfield Street,Bintaro,Tangerang Selatan,25.60162,103.817356,
+161,11,37 Clove Street,BSD,Tangerang Selatan,4.6064435,-61.1053691,
+162,15,14 Main Plaza,BSD,Tangerang Selatan,6.3802946,116.4246476,87028
+163,15,4206 Mosinee Crossing,BSD,Tangerang Selatan,36.7338782,69.5394189,
+164,30,207 1st Street,BSD,Tangerang Selatan,20.0910963,-98.7623874,96980
+165,26,04059 Westend Avenue,BSD,Tangerang Selatan,60.2496387,47.7885614,613920
+166,21,42 Waxwing Terrace,BSD,Tangerang Selatan,43.8485035,18.3616103,
+167,12,1688 Utah Terrace,Bintaro,Tangerang Selatan,46.0199358,29.6734385,
+168,2,835 Farmco Park,BSD,Tangerang Selatan,3.5931213,97.2221421,
+169,7,74 Garrison Road,BSD,Tangerang Selatan,19.0807684,-71.6986206,10802
+170,14,9677 Emmet Lane,Bintaro,Tangerang Selatan,49.0186498,26.3397803,
+171,27,41959 Nevada Court,Pamulang,Tangerang Selatan,30.059549,-115.725753,47849
+172,27,8709 Waubesa Alley,Bintaro,Tangerang Selatan,24.84662,116.746096,
+173,2,25 Maywood Street,Bintaro,Tangerang Selatan,48.0414975,25.6513963,
+174,28,65 Hallows Lane,Bintaro,Tangerang Selatan,48.7131111,5.0953327,55013 CEDEX
+175,27,094 Barby Road,Bintaro,Tangerang Selatan,31.0600061,121.1161746,
+176,4,6431 Derek Plaza,Bintaro,Tangerang Selatan,63.3772787,10.3070483,7026
+177,29,622 Orin Trail,BSD,Tangerang Selatan,9.2485489,12.4495221,
+178,5,38610 Ohio Point,BSD,Tangerang Selatan,16.0107976,120.1534815,2416
+179,8,446 Reindahl Street,BSD,Tangerang Selatan,-0.7399711,133.7941356,
+180,26,5 Shopko Court,BSD,Tangerang Selatan,-11.1892053,28.8888064,
+181,11,7080 Merrick Terrace,Pamulang,Tangerang Selatan,29.00707,114.246016,
+182,26,20054 Saint Paul Street,BSD,Tangerang Selatan,23.296786,113.823135,
+183,11,01 Mariners Cove Pass,Bintaro,Tangerang Selatan,4.9697573,10.7013332,
+184,25,904 Manufacturers Trail,Pamulang,Tangerang Selatan,-1.959951,32.929501,
+185,28,1 Almo Avenue,Pamulang,Tangerang Selatan,44.142359,87.592379,
+186,7,3188 Kingsford Crossing,Pamulang,Tangerang Selatan,23.701262,117.430061,
+187,9,5 Michigan Lane,Pamulang,Tangerang Selatan,10.107755,123.649321,6017
+188,14,0 Old Shore Alley,Bintaro,Tangerang Selatan,17.234553,102.4235298,96130
+189,23,030 Mifflin Way,Bintaro,Tangerang Selatan,40.0380778,-75.1136721,19120
+190,16,142 Blue Bill Park Lane,Bintaro,Tangerang Selatan,40.7813001,19.8440006,
+191,11,01 Westridge Lane,BSD,Tangerang Selatan,41.6167547,41.6367455,
+192,26,31107 Merrick Street,BSD,Tangerang Selatan,-9.9061087,-63.0330263,78930-000
+193,10,75094 Monica Hill,BSD,Tangerang Selatan,-6.8482297,106.6802549,
+194,1,4096 Stone Corner Point,BSD,Tangerang Selatan,57.737194,56.174166,614534
+195,28,882 Jana Parkway,BSD,Tangerang Selatan,38.308683,101.588353,
+196,13,94 Meadow Ridge Drive,Pamulang,Tangerang Selatan,33.145166,117.888855,
+197,9,3864 Pond Plaza,BSD,Tangerang Selatan,-7.3354943,108.230338,
+198,7,7 Longview Pass,Pamulang,Tangerang Selatan,3.3273599,117.5785049,
+199,15,67526 Nova Plaza,Bintaro,Tangerang Selatan,-27.780531,-54.2362302,98910-000
+200,30,17 Haas Pass,Bintaro,Tangerang Selatan,9.006393,1.6639235,
+201,29,1154 Sherman Place,BSD,Tangerang Selatan,27.85512,120.6604815,
+202,4,6 Surrey Way,BSD,Tangerang Selatan,15.0319912,-91.7358506,10007
+203,23,66818 Emmet Circle,Bintaro,Tangerang Selatan,31.7304839,117.3437409,
+204,2,1209 Merrick Circle,BSD,Tangerang Selatan,10.2453984,-74.041805,472047
+205,30,054 Straubel Junction,Pamulang,Tangerang Selatan,22.556499,114.236875,
+206,30,2975 Dovetail Crossing,Pamulang,Tangerang Selatan,-21.2001343,24.8656498,
+207,24,07 Fieldstone Way,Bintaro,Tangerang Selatan,-12.868355,-72.6919814,
+208,5,4800 Lyons Trail,Pamulang,Tangerang Selatan,32.652297,110.769132,
+209,17,44 Ridgeview Drive,BSD,Tangerang Selatan,-18.9797547,32.3759269,
+210,25,65153 Crest Line Road,Pamulang,Tangerang Selatan,22.2092,113.296467,
+211,19,30723 Fieldstone Avenue,BSD,Tangerang Selatan,29.116031,112.567886,
+212,1,8 Merrick Terrace,BSD,Tangerang Selatan,41.5728211,23.7282719,2971
+213,19,62 Mitchell Trail,Bintaro,Tangerang Selatan,50.9212447,5.9651892,6404
+214,25,981 Grayhawk Plaza,Bintaro,Tangerang Selatan,31.6095648,64.4082082,
+215,1,7 Artisan Avenue,BSD,Tangerang Selatan,-6.1126806,106.8806295,
+216,12,514 Moland Place,Bintaro,Tangerang Selatan,-8.4691756,116.4134873,
+217,14,21 Judy Alley,BSD,Tangerang Selatan,55.3238424,38.6815132,140209
+218,23,81558 Kingsford Street,Pamulang,Tangerang Selatan,-2.2728607,115.5917918,
+219,12,80794 Harbort Terrace,Bintaro,Tangerang Selatan,38.7099952,20.7141164,
+220,13,0 Oxford Parkway,Bintaro,Tangerang Selatan,-8.75815,117.18602,
+221,8,72866 Cody Alley,Pamulang,Tangerang Selatan,35.9136535,47.0266848,
+222,30,230 Sauthoff Plaza,Pamulang,Tangerang Selatan,27.457067,120.642047,
+223,24,678 Lien Point,Pamulang,Tangerang Selatan,2.8235098,-60.6758331,69300-000
+224,12,7415 Coleman Place,Pamulang,Tangerang Selatan,24.64995,116.156645,
+225,25,40287 Esch Road,Bintaro,Tangerang Selatan,48.5228354,2.6377136,77193 CEDEX
+226,19,0935 Express Lane,Pamulang,Tangerang Selatan,37.8098511,139.1200637,956-0861
+227,26,8058 Kings Drive,Bintaro,Tangerang Selatan,32.358901,35.246147,
+228,3,0 Marcy Point,Bintaro,Tangerang Selatan,38.6690462,-9.2412678,2825-884
+229,27,251 Waywood Place,Pamulang,Tangerang Selatan,55.3699174,73.2223964,646404
+230,8,35 Cardinal Terrace,BSD,Tangerang Selatan,32.061895,102.990108,
+231,30,2 Holy Cross Alley,BSD,Tangerang Selatan,54.8771794,26.9388432,
+232,13,7060 Dorton Point,BSD,Tangerang Selatan,31.680023,114.576901,
+233,4,0 Eagle Crest Drive,Pamulang,Tangerang Selatan,29.806827,113.013638,
+234,5,98066 Dovetail Way,Pamulang,Tangerang Selatan,-8.25944,115.566002,
+235,14,7595 Springs Drive,Bintaro,Tangerang Selatan,5.887247,-10.0303723,
+236,21,95834 Daystar Park,Bintaro,Tangerang Selatan,66.3887667,23.3361439,957 99
+237,22,555 Northwestern Street,Pamulang,Tangerang Selatan,63.1110463,7.7291951,6506
+238,2,0 Mcbride Circle,Bintaro,Tangerang Selatan,59.9050895,10.7673005,0506
+239,5,9 Anzinger Terrace,BSD,Tangerang Selatan,41.2612832,22.9989148,
+240,3,9 Oxford Alley,Bintaro,Tangerang Selatan,-13.608056,-73.343889,
+241,10,2 American Way,Pamulang,Tangerang Selatan,1.1963019,104.1019324,
+242,7,14612 Florence Hill,BSD,Tangerang Selatan,41.6183527,67.1894488,
+243,5,432 Barby Center,Pamulang,Tangerang Selatan,57.0473862,65.7110972,625504
+244,11,73017 Thackeray Plaza,Pamulang,Tangerang Selatan,-8.4181686,118.2818967,
+245,15,92162 Brentwood Way,BSD,Tangerang Selatan,64.1629791,24.3067885,85201
+246,18,6055 Prairie Rose Plaza,Bintaro,Tangerang Selatan,3.7144776,96.8324201,
+247,10,555 Grover Plaza,BSD,Tangerang Selatan,50.6859367,38.1632353,309924
+248,16,9 Petterle Circle,BSD,Tangerang Selatan,22.302496,113.363816,
+249,2,87 Sutherland Court,BSD,Tangerang Selatan,-28.8394041,-66.9476782,5301
+250,5,2068 Mcguire Circle,Pamulang,Tangerang Selatan,46.9,97.15,
+251,24,15940 Iowa Road,BSD,Tangerang Selatan,50.317117,30.298167,
+252,15,626 Briar Crest Alley,BSD,Tangerang Selatan,14.160407,-87.0399404,
+253,7,24085 Superior Parkway,Bintaro,Tangerang Selatan,23.788392,114.74638,
+254,5,02909 Glendale Center,BSD,Tangerang Selatan,18.6316742,105.629523,
+255,1,9175 Monica Terrace,Bintaro,Tangerang Selatan,25.5020583,117.3701447,
+256,20,2 Susan Hill,Bintaro,Tangerang Selatan,17.1820718,-25.0658748,
+257,1,6 Carioca Avenue,Bintaro,Tangerang Selatan,-6.8857846,111.2219041,
+258,28,3372 Atwood Hill,BSD,Tangerang Selatan,-7.3453791,108.8941596,
+259,15,04 Grasskamp Way,Bintaro,Tangerang Selatan,-35.5930962,-71.7325021,
+260,11,19971 Mosinee Street,BSD,Tangerang Selatan,44.8501354,-0.5702805,33080 CEDEX
+261,5,6627 Twin Pines Parkway,Bintaro,Tangerang Selatan,-7.2030729,112.0237903,
+262,6,3 Orin Terrace,Bintaro,Tangerang Selatan,1.205329,124.7826,
+263,14,54 Spaight Crossing,Bintaro,Tangerang Selatan,49.7371648,19.9186389,32-435
+264,2,115 Schmedeman Plaza,Pamulang,Tangerang Selatan,39.8230099,119.4891595,
+265,1,6 Mandrake Hill,Pamulang,Tangerang Selatan,35.1595454,126.8526012,
+266,23,82545 Northwestern Alley,BSD,Tangerang Selatan,34.6372754,134.0105824,704-8166
+267,6,35446 Mifflin Center,Bintaro,Tangerang Selatan,-25.283333,-69.766667,
+268,2,90 Lerdahl Lane,BSD,Tangerang Selatan,48.0451251,30.8884315,
+269,10,3 Holy Cross Parkway,Bintaro,Tangerang Selatan,50.5799257,26.3216758,
+270,30,803 Toban Trail,Bintaro,Tangerang Selatan,-8.2879909,114.6281974,
+271,5,8043 Commercial Pass,Bintaro,Tangerang Selatan,30.918919,110.494385,
+272,28,35975 Marcy Drive,Pamulang,Tangerang Selatan,19.0511285,105.4536718,
+273,17,43 Gateway Terrace,Pamulang,Tangerang Selatan,37.4454804,59.1099161,
+274,4,606 Springs Terrace,Bintaro,Tangerang Selatan,22.8311155,113.2516686,
+275,10,46 Veith Way,Bintaro,Tangerang Selatan,37.627661,116.391507,
+276,29,089 Thackeray Alley,BSD,Tangerang Selatan,41.43999,22.79536,2435
+277,15,2 Judy Center,BSD,Tangerang Selatan,-8.2219,111.9507,
+278,9,03262 Fairfield Way,Pamulang,Tangerang Selatan,59.8088101,17.7010227,757 54
+279,8,232 Manley Crossing,Pamulang,Tangerang Selatan,14.7953378,44.2905281,
+280,6,84283 Hollow Ridge Point,Pamulang,Tangerang Selatan,59.2648646,15.2289108,702 16
+281,7,1313 Red Cloud Lane,Pamulang,Tangerang Selatan,46.6267067,32.4413727,
+282,19,761 Reindahl Park,BSD,Tangerang Selatan,41.4346593,-8.1962076,4820-021
+283,10,9973 Maple Wood Center,Bintaro,Tangerang Selatan,49.735524,13.7575556,338 45
+284,12,81 Redwing Place,BSD,Tangerang Selatan,38.874434,115.464589,
+285,7,89783 New Castle Plaza,BSD,Tangerang Selatan,49.4303242,22.5942366,38-700
+286,9,1728 Esker Circle,BSD,Tangerang Selatan,-6.167924,106.8500431,
+287,22,82713 Transport Place,BSD,Tangerang Selatan,34.2398892,135.2395881,649-6326
+288,16,9607 Village Alley,BSD,Tangerang Selatan,-6.8666512,-78.1421905,
+289,19,920 Novick Point,Pamulang,Tangerang Selatan,-8.1454945,115.1048663,
+290,29,3 Darwin Pass,Pamulang,Tangerang Selatan,21.857958,111.982232,
+291,2,59 Sage Hill,Pamulang,Tangerang Selatan,26.155061,32.7160121,
+292,2,344 Reindahl Street,Bintaro,Tangerang Selatan,27.518353,118.038714,
+293,7,6 Reindahl Lane,Bintaro,Tangerang Selatan,67.4020883,26.6725662,99601
+294,4,568 Onsgard Circle,BSD,Tangerang Selatan,-22.5905906,-46.5282973,13960-000
+295,26,08934 2nd Avenue,Bintaro,Tangerang Selatan,39.7032415,67.1060353,
+296,3,5 Chinook Pass,BSD,Tangerang Selatan,50.8269051,5.7198625,6204
+297,12,60 Fieldstone Place,Bintaro,Tangerang Selatan,50.5715496,18.1546193,47-180
+298,17,820 Waywood Road,Bintaro,Tangerang Selatan,49.6619465,-112.8149467,T1K
+299,21,04 Stang Road,BSD,Tangerang Selatan,44.840524,82.353656,
+300,6,46 Ryan Parkway,Pamulang,Tangerang Selatan,59.9477092,10.8219787,0591
+301,4,710 Longview Lane,Pamulang,Tangerang Selatan,-2.8534379,108.2941031,
+302,17,4707 3rd Pass,Bintaro,Tangerang Selatan,46.2279096,-63.1016755,C1B
+303,19,000 Blue Bill Park Alley,Bintaro,Tangerang Selatan,40.5742298,48.3896404,
+304,17,75 Merrick Park,Bintaro,Tangerang Selatan,34.272117,108.084731,
+305,25,540 3rd Road,Bintaro,Tangerang Selatan,9.2610914,0.7770529,
+306,7,21 Norway Maple Hill,BSD,Tangerang Selatan,67.8256178,20.3351033,981 80
+307,20,5077 Maple Wood Road,BSD,Tangerang Selatan,21.514163,111.013556,
+308,16,5 Fuller Street,Bintaro,Tangerang Selatan,57.6727414,-2.955445,AB56
+309,29,56712 Fair Oaks Street,Pamulang,Tangerang Selatan,43.6051078,73.7631135,
+310,1,93855 Melrose Point,Pamulang,Tangerang Selatan,45.7653181,20.2863213,
+311,28,4 Lakewood Gardens Circle,Bintaro,Tangerang Selatan,-34.0028385,-61.6048678,2607
+312,1,27859 Hallows Parkway,Bintaro,Tangerang Selatan,30.930612,108.697324,
+313,2,02939 Talmadge Point,BSD,Tangerang Selatan,13.6444,44.85097,
+314,26,9010 Monument Way,BSD,Tangerang Selatan,13.8263447,-89.270477,
+315,13,04590 Daystar Street,BSD,Tangerang Selatan,48.1164447,-1.7128603,35022 CEDEX 2
+316,19,30484 Ohio Parkway,BSD,Tangerang Selatan,42.6503176,77.0852258,
+317,15,88 Pleasure Road,Bintaro,Tangerang Selatan,-33.4907417,22.5304693,6651
+318,29,4300 Union Hill,Bintaro,Tangerang Selatan,39.618462,113.536462,
+319,25,17955 Nelson Point,BSD,Tangerang Selatan,33.844582,115.778676,
+320,20,705 Marquette Alley,Pamulang,Tangerang Selatan,-28.832995,-52.5745556,99300-000
+321,20,32257 Hovde Circle,Pamulang,Tangerang Selatan,-1.4740609,103.5147735,
+322,3,03493 Farmco Avenue,BSD,Tangerang Selatan,34.8190348,36.1192307,
+323,2,0 Morning Alley,Bintaro,Tangerang Selatan,23.69781,120.960515,
+324,19,147 Glacier Hill Alley,BSD,Tangerang Selatan,10.6713871,123.0555033,2420
+325,6,53 Mandrake Court,BSD,Tangerang Selatan,59.6932155,14.1583048,682 33
+326,22,107 Welch Terrace,Bintaro,Tangerang Selatan,13.794468,100.327706,13230
+327,1,2268 Duke Court,Bintaro,Tangerang Selatan,1.5592261,99.0792263,
+328,9,5 Vera Junction,Pamulang,Tangerang Selatan,49.60559,-97.04234,T5G
+329,15,1 Eastwood Circle,Pamulang,Tangerang Selatan,57.6067536,47.9368725,612200
+330,19,35884 Fremont Plaza,Bintaro,Tangerang Selatan,48.401643,29.2407915,
+331,11,91470 Shopko Street,BSD,Tangerang Selatan,48.4935627,135.0631263,363104
+332,9,865 Roth Lane,Bintaro,Tangerang Selatan,23.12911,113.264385,
+333,6,764 Sloan Way,BSD,Tangerang Selatan,3.0100681,101.5326734,40582
+334,1,72426 Dunning Junction,Bintaro,Tangerang Selatan,-35.0026606,173.5016887,0420
+335,26,262 Anderson Place,Bintaro,Tangerang Selatan,43.4945737,5.8978018,75032 CEDEX 01
+336,7,2 Fairfield Road,Pamulang,Tangerang Selatan,43.704612,7.261933,06009 CEDEX 1
+337,3,302 Utah Circle,Bintaro,Tangerang Selatan,35.287727,111.692186,
+338,1,2554 Summer Ridge Hill,BSD,Tangerang Selatan,51.1329676,6.4449432,41199
+339,3,4161 Carey Place,Bintaro,Tangerang Selatan,-7.1221059,106.5701927,
+340,30,94981 Dwight Circle,Pamulang,Tangerang Selatan,-20.6436652,-51.1110523,15370-000
+341,17,125 Rutledge Street,BSD,Tangerang Selatan,-14.06355,32.4382307,
+342,16,08 Porter Point,BSD,Tangerang Selatan,-7.6181938,109.1508428,
+343,20,341 Meadow Valley Court,Bintaro,Tangerang Selatan,-3.5098478,-44.7381432,65480-000
+344,1,74 Towne Alley,BSD,Tangerang Selatan,59.3664053,17.8763622,162 66
+345,15,3742 8th Avenue,Bintaro,Tangerang Selatan,11.7775345,10.4494906,
+346,14,76 Grasskamp Lane,BSD,Tangerang Selatan,24.4192041,89.5515678,5611
+347,1,23869 Delladonna Crossing,BSD,Tangerang Selatan,44.441584,126.4510829,
+348,28,1 Clyde Gallagher Street,Pamulang,Tangerang Selatan,44.3553292,131.5243532,356532
+349,24,5045 Schiller Lane,Pamulang,Tangerang Selatan,-8.4164207,115.3459831,
+350,30,435 Monica Center,BSD,Tangerang Selatan,-7.1143481,-78.8226909,
+351,5,5 Delladonna Way,BSD,Tangerang Selatan,32.584328,111.948474,
+352,23,32 Superior Hill,Bintaro,Tangerang Selatan,57.9258984,59.970317,102469
+353,12,2651 Butternut Court,BSD,Tangerang Selatan,59.2648646,15.2289108,702 16
+354,1,5 Kennedy Park,Pamulang,Tangerang Selatan,29.916694,121.529927,
+355,15,07911 Del Mar Way,Bintaro,Tangerang Selatan,50.1063169,22.3570583,37-114
+356,2,33 Pond Trail,Pamulang,Tangerang Selatan,12.5640276,123.7304111,5417
+357,14,1 Scott Avenue,Bintaro,Tangerang Selatan,40.188816,123.696241,
+358,11,635 Troy Point,Pamulang,Tangerang Selatan,29.233038,56.6008972,
+359,29,0 Nobel Street,Bintaro,Tangerang Selatan,59.6048642,16.5096453,724 68
+360,8,09 Glacier Hill Point,BSD,Tangerang Selatan,-7.4703872,110.9387418,
+361,23,2525 4th Drive,Bintaro,Tangerang Selatan,41.811979,126.918087,
+362,27,66 Vernon Way,Pamulang,Tangerang Selatan,52.67226,17.1606199,62-085
+363,10,44 Prairieview Lane,Pamulang,Tangerang Selatan,-6.9665934,112.2205183,
+364,30,4794 Russell Center,Pamulang,Tangerang Selatan,-6.8435796,106.8296372,
+365,16,717 Warbler Court,Bintaro,Tangerang Selatan,-3.2545446,104.7593863,
+366,16,52501 Buell Trail,Bintaro,Tangerang Selatan,49.2725714,-123.1207968,V6Z
+367,19,3020 Myrtle Trail,Pamulang,Tangerang Selatan,59.1743317,10.1431781,3220
+368,24,48 Amoth Drive,BSD,Tangerang Selatan,-9.8975064,-76.9398195,
+369,18,21957 Esker Avenue,BSD,Tangerang Selatan,38.4224562,48.8687149,
+370,7,18 Karstens Trail,Bintaro,Tangerang Selatan,-8.2,114.5,
+371,13,5 Ludington Avenue,Pamulang,Tangerang Selatan,50.5372159,15.2311161,512 63
+372,7,537 Montana Junction,Pamulang,Tangerang Selatan,10.4009358,106.22868,
+373,21,10976 Tony Parkway,BSD,Tangerang Selatan,48.1120825,25.7664345,
+374,24,8 Bluejay Pass,Bintaro,Tangerang Selatan,12.9813794,37.7622971,
+375,7,025 Columbus Point,Bintaro,Tangerang Selatan,51.976466,21.215337,05-530
+376,17,5155 Meadow Ridge Parkway,BSD,Tangerang Selatan,55.7711328,39.1006189,142633
+377,14,4632 Canary Point,Bintaro,Tangerang Selatan,50.13441,-97.32676,H9J
+378,25,7 Green Park,Pamulang,Tangerang Selatan,36.7338782,69.5394189,
+379,1,97 Park Meadow Drive,Pamulang,Tangerang Selatan,32.2487226,54.0079341,
+380,24,054 Judy Terrace,BSD,Tangerang Selatan,39.983599,98.90327,
+381,16,0981 Sugar Center,Bintaro,Tangerang Selatan,-12.257739,43.6723087,
+382,15,84 Lerdahl Junction,Pamulang,Tangerang Selatan,-42.7602412,-65.0604467,9201
+383,20,88 Dryden Road,BSD,Tangerang Selatan,46.688163,83.406926,
+384,12,6499 Jackson Hill,BSD,Tangerang Selatan,-6.13333,39.28333,
+385,27,916 Del Sol Alley,Bintaro,Tangerang Selatan,11.4222249,122.055373,2806
+386,24,93 Hooker Street,Pamulang,Tangerang Selatan,48.6841029,24.4272889,
+387,8,3245 Cordelia Way,BSD,Tangerang Selatan,9.2478,124.7215982,9101
+388,5,2160 Hudson Circle,Pamulang,Tangerang Selatan,-28.7137096,-49.3091437,88820-000
+389,25,0 Vera Terrace,Bintaro,Tangerang Selatan,37.8457328,139.2342041,959-2013
+390,2,563 Meadow Ridge Street,Bintaro,Tangerang Selatan,-20.5912573,48.5312279,
+391,30,94403 Meadow Ridge Street,BSD,Tangerang Selatan,27.700062,111.993497,
+392,23,43667 Comanche Plaza,BSD,Tangerang Selatan,49.8856487,22.1027541,36-030
+393,20,41888 Hallows Center,Pamulang,Tangerang Selatan,55.8182515,37.3477667,416102
+394,30,0 Jackson Point,Pamulang,Tangerang Selatan,28.4380408,-11.0987374,
+395,28,2 Old Shore Junction,BSD,Tangerang Selatan,49.3230985,28.0823146,
+396,2,8799 Harbort Parkway,BSD,Tangerang Selatan,31.4867981,73.8207154,39180
+397,30,8103 Kedzie Trail,BSD,Tangerang Selatan,8.1380673,100.1255164,80190
+398,18,1744 Grayhawk Street,BSD,Tangerang Selatan,-7.618249,110.6630784,
+399,3,9449 Warrior Plaza,Bintaro,Tangerang Selatan,-8.5697306,123.3991028,
+400,2,4646 Welch Parkway,Pamulang,Tangerang Selatan,45.18648,-73.40468,M2N
+401,21,666 Memorial Street,Bintaro,Tangerang Selatan,33.5727724,36.4093761,
+402,14,25917 Loomis Circle,BSD,Tangerang Selatan,29.9,31.25,
+403,12,899 Moulton Lane,BSD,Tangerang Selatan,56.0396207,14.1636617,291 41
+404,27,70 Commercial Park,BSD,Tangerang Selatan,39.105787,111.862117,
+405,30,16 Buhler Court,Pamulang,Tangerang Selatan,7.1962805,125.4078017,3312
+406,29,357 Scofield Parkway,BSD,Tangerang Selatan,0.3642599,108.954903,
+407,17,9637 Tony Court,Pamulang,Tangerang Selatan,28.002849,118.764957,
+408,17,207 Forster Terrace,Pamulang,Tangerang Selatan,45.76468,-73.81156,J4X
+409,14,05973 Cody Way,Pamulang,Tangerang Selatan,51.5344639,20.6364509,26-415
+410,3,3 Fordem Drive,Pamulang,Tangerang Selatan,23.0356299,91.4828056,8700
+411,13,69775 Redwing Trail,Bintaro,Tangerang Selatan,42.4865907,26.5331057,8600
+412,25,2 Bowman Road,Bintaro,Tangerang Selatan,-16.0010539,-55.0493375,78820-000
+413,7,8086 School Circle,Bintaro,Tangerang Selatan,29.00701,117.62965,
+414,1,7 Mockingbird Lane,Bintaro,Tangerang Selatan,-21.2327222,-47.8167164,14000-000
+415,6,556 Towne Circle,Pamulang,Tangerang Selatan,13.365,121.1893,5200
+416,27,3 Namekagon Way,Pamulang,Tangerang Selatan,-10.5571304,121.8505679,
+417,3,630 Anzinger Place,Pamulang,Tangerang Selatan,31.364902,108.249509,
+418,9,5979 Buena Vista Plaza,Pamulang,Tangerang Selatan,47.4098736,32.4412263,
+419,23,953 Fieldstone Pass,Bintaro,Tangerang Selatan,48.7893977,9.1962771,70190
+420,7,27578 Eastlawn Alley,Bintaro,Tangerang Selatan,53.4808987,34.4602881,242622
+421,8,381 Saint Paul Way,Pamulang,Tangerang Selatan,39.7601611,116.3169416,
+422,22,0 Butterfield Park,Pamulang,Tangerang Selatan,59.132661,12.930107,661 31
+423,23,28232 1st Alley,BSD,Tangerang Selatan,-26.1026584,27.6952713,0390
+424,21,03 Sherman Street,Pamulang,Tangerang Selatan,29.689847,121.28259,
+425,9,609 Utah Hill,Pamulang,Tangerang Selatan,14.1512889,120.8576801,4133
+426,2,168 Portage Road,Bintaro,Tangerang Selatan,-7.305958,112.8135304,
+427,24,4342 Mcguire Hill,Pamulang,Tangerang Selatan,46.3367995,16.6150167,40323
+428,22,86733 Westport Park,Pamulang,Tangerang Selatan,8.3141383,124.8551784,8701
+429,1,46 Cordelia Hill,BSD,Tangerang Selatan,55.9289331,37.9176675,141143
+430,18,093 Waxwing Point,BSD,Tangerang Selatan,47.7765978,27.9381723,MD-4901
+431,6,072 Utah Court,BSD,Tangerang Selatan,41.5327252,20.4232296,
+432,10,78650 Grim Hill,Bintaro,Tangerang Selatan,46.688163,83.406926,
+433,30,8824 Mariners Cove Park,BSD,Tangerang Selatan,57.9282881,30.7057423,175100
+434,21,99 Hudson Court,Bintaro,Tangerang Selatan,50.7911439,15.0266516,463 03
+435,30,25 Cardinal Terrace,BSD,Tangerang Selatan,-8.0568365,111.8002195,
+436,26,0 8th Park,Pamulang,Tangerang Selatan,-8.3010912,112.1489829,
+437,15,9 Oriole Point,Bintaro,Tangerang Selatan,40.24739,44.53511,
+438,13,48026 Texas Circle,Bintaro,Tangerang Selatan,18.459998,-69.924643,10109
+439,27,5888 Milwaukee Parkway,Bintaro,Tangerang Selatan,22.656408,114.019351,
+440,16,6594 Corscot Center,BSD,Tangerang Selatan,55.3040194,83.6056675,633130
+441,29,0 Dayton Plaza,Pamulang,Tangerang Selatan,-6.9158,112.5541,
+442,1,30 Boyd Avenue,Bintaro,Tangerang Selatan,51.2150482,19.5968399,97-350
+443,11,2 Independence Pass,BSD,Tangerang Selatan,49.395599,2.789137,60477 CEDEX
+444,24,42 Ridge Oak Parkway,BSD,Tangerang Selatan,50.6964708,22.5669964,23-304
+445,6,6 Schiller Street,BSD,Tangerang Selatan,-25.3461531,-57.2705691,
+446,2,3461 Karstens Crossing,Pamulang,Tangerang Selatan,-29.8224312,27.2388161,
+447,15,57470 Lake View Street,Pamulang,Tangerang Selatan,41.8815942,-8.628833,4940-025
+448,28,535 Dapin Hill,Bintaro,Tangerang Selatan,38.0208091,-7.8554287,7800-009
+449,2,38455 Almo Pass,Bintaro,Tangerang Selatan,22.2678103,114.2360778,
+450,8,60112 North Hill,Bintaro,Tangerang Selatan,37.3189149,-121.9416226,95128
+451,29,61981 Crescent Oaks Terrace,BSD,Tangerang Selatan,0.965759,31.7195459,
+452,11,71898 Redwing Pass,BSD,Tangerang Selatan,29.988244,120.582633,
+453,11,595 Oriole Hill,BSD,Tangerang Selatan,-17.7405182,-46.1741639,38770-000
+454,14,2 Delladonna Point,Pamulang,Tangerang Selatan,-6.9579774,-76.4172594,
+455,28,0529 Vermont Park,Bintaro,Tangerang Selatan,56.450936,23.353057,
+456,12,43462 Washington Court,Bintaro,Tangerang Selatan,41.5023719,-8.5818392,4755-318
+457,12,80500 Waubesa Plaza,Pamulang,Tangerang Selatan,22.556499,114.236875,
+458,10,268 Carioca Place,Pamulang,Tangerang Selatan,7.0654022,-3.9572374,
+459,6,85487 Banding Road,BSD,Tangerang Selatan,59.362551,18.0343914,169 70
+460,22,100 Clarendon Hill,BSD,Tangerang Selatan,-21.4803962,-56.1494143,79240-000
+461,6,05 Arizona Point,Pamulang,Tangerang Selatan,38.925875,100.449818,
+462,10,48 Hoepker Park,Bintaro,Tangerang Selatan,48.5851876,7.7342943,67013 CEDEX
+463,18,06606 Orin Circle,Pamulang,Tangerang Selatan,5.634202,-73.323263,150208
+464,14,7287 Maple Parkway,Bintaro,Tangerang Selatan,5.9411628,-56.9914585,
+465,23,996 Mandrake Point,BSD,Tangerang Selatan,38.9568788,22.6437026,
+466,18,9 Coleman Place,Bintaro,Tangerang Selatan,-21.7414439,-48.6891129,14910-000
+467,20,7 Cherokee Lane,Bintaro,Tangerang Selatan,49.8135834,19.6147046,34-146
+468,27,75379 Pond Terrace,Pamulang,Tangerang Selatan,45.6825301,14.1960581,6257
+469,26,76694 Ramsey Road,Pamulang,Tangerang Selatan,38.8742482,-9.3993262,2705-785
+470,3,1330 Rigney Drive,Pamulang,Tangerang Selatan,-6.914339,107.5788509,
+471,20,0815 Redwing Terrace,Pamulang,Tangerang Selatan,49.8117449,6.2541216,L-6380
+472,7,35 Erie Terrace,Bintaro,Tangerang Selatan,25.797931,110.011238,
+473,28,04729 Manitowish Park,Pamulang,Tangerang Selatan,41.2420649,-80.8488498,44485
+474,19,2 Burning Wood Place,BSD,Tangerang Selatan,49.1441362,6.1519975,57751 CEDEX 9
+475,5,75 Kropf Trail,Pamulang,Tangerang Selatan,52.7112627,45.4271291,442443
+476,22,8 School Court,Pamulang,Tangerang Selatan,52.5967759,15.5140181,66-440
+477,30,930 Fallview Place,Pamulang,Tangerang Selatan,26.82808,114.835777,
+478,13,31 Goodland Circle,Pamulang,Tangerang Selatan,42.0732393,42.8212218,
+479,5,9 Arrowood Avenue,Bintaro,Tangerang Selatan,49.8626967,21.9047783,38-114
+480,4,0637 Melvin Road,Bintaro,Tangerang Selatan,35.8042947,69.2877535,
+481,20,6 Tennessee Terrace,Bintaro,Tangerang Selatan,18.4759089,-73.2337779,
+482,13,10 Boyd Alley,BSD,Tangerang Selatan,39.6832131,-9.0018424,2445-204
+483,14,899 Carberry Pass,Bintaro,Tangerang Selatan,45.9260128,20.0780937,
+484,7,321 Blackbird Circle,BSD,Tangerang Selatan,-9.922886,38.328209,
+485,13,54067 Redwing Plaza,Bintaro,Tangerang Selatan,-7.7981151,110.350244,
+486,16,845 Sugar Crossing,Bintaro,Tangerang Selatan,55.9711379,37.9358133,142139
+487,16,6998 Towne Avenue,BSD,Tangerang Selatan,37.34,-121.89,95108
+488,12,465 Sycamore Parkway,Bintaro,Tangerang Selatan,38.7108335,139.7415269,999-7542
+489,19,46 Tony Terrace,Bintaro,Tangerang Selatan,-7.0110378,110.3919493,
+490,18,752 Talmadge Junction,Pamulang,Tangerang Selatan,36.1093631,103.694265,
+491,18,008 Truax Lane,Bintaro,Tangerang Selatan,29.099294,119.692696,
+492,26,494 Dorton Pass,Pamulang,Tangerang Selatan,22.1998606,-84.0880839,
+493,17,81 Springview Crossing,Bintaro,Tangerang Selatan,-0.8406658,-80.1596041,
+494,18,7427 Homewood Terrace,Pamulang,Tangerang Selatan,13.4956,123.289,4430
+495,30,09161 Straubel Hill,Pamulang,Tangerang Selatan,50.2616437,15.9613245,503 03
+496,7,236 Gerald Circle,Bintaro,Tangerang Selatan,18.1311468,-66.6395219,00731
+497,23,14225 Lunder Hill,Pamulang,Tangerang Selatan,41.3666,-8.1991612,4610-017
+498,13,336 Red Cloud Lane,BSD,Tangerang Selatan,-7.015,112.4842,
+499,29,6347 Montana Place,BSD,Tangerang Selatan,42.239717,27.776119,8284
+500,29,975 Cascade Parkway,Pamulang,Tangerang Selatan,56.0674256,98.4613454,665081
+501,2,2360 3rd Court,Pamulang,Tangerang Selatan,37.4547684,140.5368503,963-4321
+502,27,093 Michigan Park,Pamulang,Tangerang Selatan,40.2627673,45.7004954,
+503,14,01629 Orin Circle,Pamulang,Tangerang Selatan,46.4695205,94.0976021,
+504,29,2145 Mallard Road,BSD,Tangerang Selatan,28.901462,118.511235,
+505,12,7307 Bobwhite Terrace,Pamulang,Tangerang Selatan,59.2274821,15.0462455,701 81
+506,4,6 Killdeer Terrace,Pamulang,Tangerang Selatan,29.66941,91.349867,
+507,24,29995 Lakewood Gardens Road,BSD,Tangerang Selatan,47.5868157,1.3305567,41004 CEDEX
+508,17,9 Vidon Plaza,Bintaro,Tangerang Selatan,-0.789275,113.921327,
+509,3,9922 Lyons Parkway,Pamulang,Tangerang Selatan,-8.4399,115.3561,
+510,10,11829 Reinke Street,Bintaro,Tangerang Selatan,24.9372186,118.6422409,
+511,14,2 Pennsylvania Place,Bintaro,Tangerang Selatan,14.565668,121.0317737,6227
+512,29,3 Springview Way,BSD,Tangerang Selatan,-7.3475648,108.1576908,
+513,1,9 Killdeer Park,Bintaro,Tangerang Selatan,8.3793172,124.8830509,8703
+514,1,165 Kings Center,BSD,Tangerang Selatan,13.5936254,100.324002,30440
+515,6,88 Comanche Place,Bintaro,Tangerang Selatan,38.7099688,-8.9903196,2870-005
+516,17,7 Kropf Road,Bintaro,Tangerang Selatan,-0.789275,113.921327,
+517,18,121 Muir Center,Pamulang,Tangerang Selatan,19.4102526,-99.0073673,57000
+518,30,05 Melody Road,BSD,Tangerang Selatan,14.0879302,44.6724469,
+519,11,51 Kim Lane,BSD,Tangerang Selatan,-43.2098678,171.3169384,7541
+520,23,2 Novick Point,Pamulang,Tangerang Selatan,-0.819175,120.167297,
+521,10,1512 Mayer Parkway,Pamulang,Tangerang Selatan,53.9152969,27.5503205,
+522,19,5852 Linden Drive,Bintaro,Tangerang Selatan,56.5155642,64.631671,641960
+523,9,7 Bonner Avenue,Pamulang,Tangerang Selatan,-9.7464338,124.4309165,
+524,23,0 Linden Parkway,BSD,Tangerang Selatan,52.44387,15.11697,69-200
+525,3,50 Parkside Point,Bintaro,Tangerang Selatan,26.6654996,-80.0590804,33405
+526,29,09 Dennis Way,Pamulang,Tangerang Selatan,13.5267844,-14.6719007,
+527,14,1 Schurz Place,Bintaro,Tangerang Selatan,-0.7140022,-80.109357,
+528,30,15 Cascade Place,Bintaro,Tangerang Selatan,39.6222264,20.8874294,
+529,4,197 Sheridan Drive,Bintaro,Tangerang Selatan,48.3006708,4.0710348,10606 CEDEX
+530,9,4 Maywood Parkway,Pamulang,Tangerang Selatan,44.596097,129.591591,
+531,13,513 Vidon Avenue,BSD,Tangerang Selatan,8.4715413,124.6404944,1441
+532,1,1207 Clemons Avenue,Bintaro,Tangerang Selatan,41.186564,111.308664,
+533,25,7 Kennedy Street,Pamulang,Tangerang Selatan,33.9930471,-118.153228,90040
+534,26,8 Calypso Lane,Pamulang,Tangerang Selatan,52.2597944,21.94731,07-110
+535,27,0 Ludington Place,Bintaro,Tangerang Selatan,31.210297,96.600578,
+536,10,9 Buhler Street,BSD,Tangerang Selatan,37.2629988,139.8048354,969-5316
+537,19,33 Bluestem Plaza,Pamulang,Tangerang Selatan,14.707895,120.94639,1444
+538,4,592 Pennsylvania Way,BSD,Tangerang Selatan,31.9069842,73.2723283,52181
+539,3,18743 Tennyson Court,Bintaro,Tangerang Selatan,49.2095093,2.5814197,60309 CEDEX
+540,3,50972 Schurz Road,Bintaro,Tangerang Selatan,11.0657173,122.8454491,8611
+541,26,2 Main Place,Bintaro,Tangerang Selatan,-22.8109177,47.3302847,
+542,5,0177 American Point,BSD,Tangerang Selatan,45.788378,3.1331436,63043 CEDEX 2
+543,22,447 Jenna Point,BSD,Tangerang Selatan,44.9764185,17.9070412,
+544,27,83 Banding Lane,Pamulang,Tangerang Selatan,59.4075977,17.9282806,164 35
+545,30,8114 Fair Oaks Court,Pamulang,Tangerang Selatan,35.6574826,50.9762063,
+546,16,871 Harper Trail,BSD,Tangerang Selatan,37.347409,115.965874,
+547,25,861 Steensland Way,Pamulang,Tangerang Selatan,41.7396715,-85.9262162,34629
+548,15,67670 Cottonwood Lane,Bintaro,Tangerang Selatan,3.1523104,101.7178316,50515
+549,9,8003 Eagle Crest Avenue,Pamulang,Tangerang Selatan,60.1128845,22.9535316,25630
+550,30,75537 Sundown Road,BSD,Tangerang Selatan,31.627447,121.022581,
+551,1,3175 Rusk Point,Pamulang,Tangerang Selatan,27.6873608,83.4323375,
+552,5,47574 Lotheville Center,Bintaro,Tangerang Selatan,31.617202,104.46797,
+553,12,8 Old Gate Point,Bintaro,Tangerang Selatan,43.1564817,-80.1651854,N3T
+554,19,1 West Alley,Pamulang,Tangerang Selatan,34.799583,137.3616256,442-0889
+555,16,96302 Almo Street,BSD,Tangerang Selatan,-8.8025,117.7774,
+556,30,75292 Randy Circle,Bintaro,Tangerang Selatan,45.2414259,20.3589241,
+557,26,4776 Schiller Lane,Pamulang,Tangerang Selatan,52.2802311,10.5390217,38106
+558,30,603 Shoshone Way,Pamulang,Tangerang Selatan,-7.4104934,110.3279026,
+559,25,78 Kinsman Alley,Pamulang,Tangerang Selatan,49.3509463,16.134156,594 52
+560,17,942 Algoma Hill,Pamulang,Tangerang Selatan,33.77974,37.68357,
+561,27,6 Golf Place,Pamulang,Tangerang Selatan,49.2706048,-1.6509128,50204 CEDEX
+562,18,56778 Haas Parkway,Pamulang,Tangerang Selatan,68.7934376,16.5129687,9406
+563,23,32 Nobel Drive,Pamulang,Tangerang Selatan,56.2835999,44.0036677,901993
+564,28,65389 Mccormick Circle,Bintaro,Tangerang Selatan,18.2502129,-74.0968336,
+565,2,47 Birchwood Street,Bintaro,Tangerang Selatan,62.2956257,28.2513674,79480
+566,7,6 Dahle Plaza,BSD,Tangerang Selatan,40.0856412,-8.2896115,3220-077
+567,2,53810 Stuart Parkway,Bintaro,Tangerang Selatan,53.0018699,-6.9858993,R14
+568,19,961 Old Shore Alley,Bintaro,Tangerang Selatan,51.6203554,24.9194195,
+569,8,49425 Eastwood Parkway,Pamulang,Tangerang Selatan,52.735825,20.7121262,05-191
+570,24,5 Coolidge Plaza,Bintaro,Tangerang Selatan,40.407578,118.949684,
+571,21,13 Jenifer Lane,BSD,Tangerang Selatan,38.4968282,-9.0375864,2925-017
+572,19,822 Maryland Place,Pamulang,Tangerang Selatan,42.8212455,73.8536683,
+573,26,22834 Golden Leaf Road,Bintaro,Tangerang Selatan,52.3863062,9.7156831,30167
+574,19,1 Scoville Plaza,Bintaro,Tangerang Selatan,55.4602073,50.1454514,422650
+575,20,581 Continental Park,Pamulang,Tangerang Selatan,38.021567,114.847075,
+576,4,866 Fuller Crossing,BSD,Tangerang Selatan,30.849762,116.359692,
+577,22,54995 Namekagon Trail,Pamulang,Tangerang Selatan,45.9589716,16.3852937,10346
+578,19,34028 Continental Junction,BSD,Tangerang Selatan,32.7089435,115.968206,
+579,16,5971 Arizona Place,Pamulang,Tangerang Selatan,-12.9698503,-39.2617368,44570-000
+580,12,6 Brown Terrace,Bintaro,Tangerang Selatan,25.4105868,68.418057,47951
+581,8,452 Spenser Hill,Pamulang,Tangerang Selatan,-7.7913526,111.9343636,
+582,19,9 Lunder Street,Bintaro,Tangerang Selatan,45.6910361,20.5792392,
+583,16,56739 Linden Street,Bintaro,Tangerang Selatan,37.339426,122.435887,
+584,4,77685 Chive Road,Bintaro,Tangerang Selatan,12.013045,124.815974,6706
+585,15,60587 Myrtle Trail,Bintaro,Tangerang Selatan,-33.7974423,151.2502275,1134
+586,10,08056 Laurel Road,Bintaro,Tangerang Selatan,23.0706415,112.4852219,
+587,10,95 Cordelia Center,Bintaro,Tangerang Selatan,15.5946516,120.7914484,4332
+588,15,1 Pankratz Plaza,Pamulang,Tangerang Selatan,14.5418789,-91.5078771,10009
+589,23,2 Southridge Street,Pamulang,Tangerang Selatan,-5.282644,123.5839983,
+590,19,99 Darwin Pass,BSD,Tangerang Selatan,40.628952,122.511257,
+591,8,87538 Gulseth Alley,Bintaro,Tangerang Selatan,28.564189,111.271014,
+592,19,3 Pearson Trail,BSD,Tangerang Selatan,-17.5467442,-65.8412017,
+593,23,9668 Westend Point,Pamulang,Tangerang Selatan,41.0828115,-8.0325948,4690-588
+594,21,5137 Myrtle Avenue,BSD,Tangerang Selatan,33.5507563,-7.4841222,
+595,8,47767 Kenwood Hill,BSD,Tangerang Selatan,10.7900517,106.6281901,
+596,8,0639 Weeping Birch Hill,Pamulang,Tangerang Selatan,39.7927635,116.3582344,
+597,19,266 Meadow Valley Hill,Bintaro,Tangerang Selatan,37.9525906,23.7464528,
+598,13,7 Fuller Center,Bintaro,Tangerang Selatan,32.930738,106.908966,
+599,3,1 Sachtjen Center,Bintaro,Tangerang Selatan,-7.5590563,112.7509656,
+600,24,8 Upham Pass,Bintaro,Tangerang Selatan,0.4607691,34.1114621,
+601,14,6 Sommers Park,BSD,Tangerang Selatan,14.8497254,-89.1467832,
+602,30,5 Cambridge Circle,Bintaro,Tangerang Selatan,60.0146083,20.4139403,22710
+603,9,90710 Warner Crossing,BSD,Tangerang Selatan,13.0427506,100.9345401,20150
+604,2,6935 Transport Hill,Pamulang,Tangerang Selatan,24.4752847,101.3431058,
+605,30,7 Sunnyside Place,Pamulang,Tangerang Selatan,14.1967923,121.4019727,4002
+606,19,3915 Jenna Parkway,BSD,Tangerang Selatan,30.779444,120.00922,
+607,14,098 Tony Alley,Bintaro,Tangerang Selatan,-42.8821377,147.3271949,7803
+608,17,5040 Charing Cross Crossing,BSD,Tangerang Selatan,-0.2467982,109.6163185,
+609,28,8 Ridge Oak Court,Bintaro,Tangerang Selatan,47.0169394,-68.1430203,113 03
+610,6,32 Comanche Way,Bintaro,Tangerang Selatan,37.7157269,-25.4345063,9680-105
+611,14,8 Hintze Pass,BSD,Tangerang Selatan,1.008763,104.470164,
+612,8,2021 Mcguire Parkway,Bintaro,Tangerang Selatan,53.543617,49.2636336,182647
+613,25,65 Loomis Point,BSD,Tangerang Selatan,50.7338713,16.0708309,58-405
+614,3,5 Clarendon Park,Pamulang,Tangerang Selatan,35.1133985,48.9757225,
+615,21,632 Dexter Drive,Pamulang,Tangerang Selatan,29.0554502,114.1574404,
+616,22,36 Mayer Alley,Pamulang,Tangerang Selatan,39.15667,26.52167,
+617,29,0 Vahlen Terrace,Bintaro,Tangerang Selatan,27.948308,109.599191,
+618,21,41032 Moland Alley,Bintaro,Tangerang Selatan,56.030318,12.7425586,256 55
+619,26,55 Annamark Circle,BSD,Tangerang Selatan,-7.0124761,111.4812472,
+620,10,42774 Manufacturers Parkway,Pamulang,Tangerang Selatan,29.8812097,80.7657804,
+621,26,7 Miller Drive,Bintaro,Tangerang Selatan,14.2622203,122.788353,4606
+622,10,89491 Kropf Drive,Pamulang,Tangerang Selatan,41.2791209,-8.6487108,4485-367
+623,13,955 Jay Junction,Bintaro,Tangerang Selatan,40.65157,120.706859,
+624,25,951 Hooker Parkway,BSD,Tangerang Selatan,-6.8843479,108.7927679,
+625,4,558 Chinook Plaza,Pamulang,Tangerang Selatan,22.529403,103.93935,
+626,28,50977 Almo Drive,Bintaro,Tangerang Selatan,35.202503,102.521807,
+627,11,23 Spohn Park,Bintaro,Tangerang Selatan,13.434798,123.1899735,6417
+628,25,50 Victoria Terrace,BSD,Tangerang Selatan,11.0871586,123.9861013,6012
+629,22,82 Nelson Trail,Bintaro,Tangerang Selatan,52.3287247,21.1718237,05-230
+630,20,4 Main Crossing,Bintaro,Tangerang Selatan,40.6400629,22.9444191,
+631,17,7219 Mitchell Road,Pamulang,Tangerang Selatan,43.798329,-79.5079073,L4K
+632,23,768 Claremont Street,Pamulang,Tangerang Selatan,45.7451347,4.8252311,69286 CEDEX 02
+633,14,68 Sugar Drive,BSD,Tangerang Selatan,59.2452899,18.2238211,135 40
+634,28,582 Melby Road,BSD,Tangerang Selatan,9.135346,-75.2887369,705079
+635,6,8 Morningstar Alley,BSD,Tangerang Selatan,25.6775595,-100.2596935,38900
+636,28,4 Eastlawn Plaza,Pamulang,Tangerang Selatan,36.973912,121.793839,
+637,19,22 Troy Circle,BSD,Tangerang Selatan,55.5792489,37.604585,346516
+638,25,08 Meadow Vale Alley,Pamulang,Tangerang Selatan,15.9593855,120.3136265,2417
+639,18,89381 Scofield Crossing,Bintaro,Tangerang Selatan,51.9569286,16.3557044,64-140
+640,16,2 Havey Hill,BSD,Tangerang Selatan,-8.6965738,118.865506,
+641,15,44241 Crest Line Lane,Bintaro,Tangerang Selatan,-6.08573,106.7087216,
+642,27,8 Erie Pass,BSD,Tangerang Selatan,42.901533,125.136451,
+643,3,3499 Monterey Crossing,Bintaro,Tangerang Selatan,-6.7708657,111.1980575,
+644,28,06 Bay Center,Pamulang,Tangerang Selatan,-5.81526,-77.3826845,
+645,18,701 Marquette Circle,Bintaro,Tangerang Selatan,30.115083,102.810415,
+646,13,0142 Brentwood Street,Bintaro,Tangerang Selatan,24.134378,90.7860057,1605
+647,4,8564 Glacier Hill Circle,Bintaro,Tangerang Selatan,54.0026343,-6.4202878,D17
+648,27,2 Gina Alley,BSD,Tangerang Selatan,39.6725789,66.7724653,
+649,8,6 Ridgeway Terrace,BSD,Tangerang Selatan,-7.0258756,107.5176489,
+650,29,76 Susan Point,Pamulang,Tangerang Selatan,45.477613,124.47553,
+651,13,86363 Havey Center,Bintaro,Tangerang Selatan,37.1426639,24.5137742,
+652,25,36 Marquette Crossing,Bintaro,Tangerang Selatan,48.4018664,24.9415656,
+653,1,47989 Stone Corner Point,BSD,Tangerang Selatan,49.6354683,16.9953098,783 22
+654,5,5 Cody Street,BSD,Tangerang Selatan,6.6763591,-72.7628653,682027
+655,30,09 Cottonwood Alley,BSD,Tangerang Selatan,26.9848474,33.9020508,
+656,1,668 Continental Alley,Bintaro,Tangerang Selatan,14.6156627,121.0009783,7027
+657,24,8558 Washington Lane,Pamulang,Tangerang Selatan,41.860976,-8.8225193,4910-597
+658,14,0 Maple Wood Circle,Pamulang,Tangerang Selatan,5.4197312,100.3170452,10450
+659,19,331 Westridge Lane,Bintaro,Tangerang Selatan,31.2823103,121.5045889,
+660,19,984 Oneill Parkway,Pamulang,Tangerang Selatan,-7.7502929,110.9549155,
+661,26,40093 Lyons Circle,Bintaro,Tangerang Selatan,34.9407863,32.9705266,
+662,12,489 Badeau Trail,Bintaro,Tangerang Selatan,45.6326302,4.909835,69281 CEDEX 01
+663,18,1 Buell Alley,Bintaro,Tangerang Selatan,4.3982671,-74.0887576,251808
+664,11,13971 Hoepker Street,Pamulang,Tangerang Selatan,15.4601543,101.1949191,67170
+665,1,7802 David Pass,Pamulang,Tangerang Selatan,41.364568,21.253752,7550
+666,18,4 Crest Line Pass,Bintaro,Tangerang Selatan,-31.4397154,-64.1251893,4701
+667,2,94 Elka Plaza,Pamulang,Tangerang Selatan,-14.05,-74.966667,
+668,14,2843 Golden Leaf Point,Pamulang,Tangerang Selatan,38.400112,114.866414,
+669,29,184 Scofield Parkway,Pamulang,Tangerang Selatan,36.7445146,26.9591755,
+670,20,79208 Swallow Road,BSD,Tangerang Selatan,8.5657243,-82.7387601,
+671,4,1 Jackson Street,BSD,Tangerang Selatan,30.095643,114.979875,
+672,28,01 Badeau Avenue,BSD,Tangerang Selatan,-10.1790674,123.5770012,
+673,29,8 Elmside Junction,Bintaro,Tangerang Selatan,-34.5688333,-58.4937996,6100
+674,2,0888 Fulton Crossing,BSD,Tangerang Selatan,49.988694,6.0001426,L-9776
+675,21,694 Eggendart Drive,Pamulang,Tangerang Selatan,-7.2719005,112.7196817,
+676,30,29 Rowland Parkway,Pamulang,Tangerang Selatan,-34.6091049,-58.7005845,8340
+677,17,17 Lien Street,Pamulang,Tangerang Selatan,61.2318649,26.1741559,59511
+678,10,83743 Reindahl Street,BSD,Tangerang Selatan,11.4218134,122.6653777,5816
+679,15,960 Riverside Trail,Pamulang,Tangerang Selatan,44.573753,129.627161,
+680,3,54987 Johnson Parkway,BSD,Tangerang Selatan,51.2262018,6.7866433,
+681,20,73610 Bashford Parkway,BSD,Tangerang Selatan,47.4997688,19.0731949,1074
+682,10,15078 John Wall Parkway,Pamulang,Tangerang Selatan,13.8792736,45.8695185,
+683,24,2727 Lillian Place,Bintaro,Tangerang Selatan,40.692169,117.163821,
+684,14,402 Mcguire Parkway,BSD,Tangerang Selatan,47.372696,132.145184,
+685,23,3311 Sachs Circle,Pamulang,Tangerang Selatan,37.548299,120.282101,
+686,8,9 Barnett Park,Pamulang,Tangerang Selatan,58.3493356,13.8300629,541 07
+687,17,0583 Dexter Hill,Pamulang,Tangerang Selatan,48.9046915,16.8160548,691 06
+688,30,56 Hanover Center,Pamulang,Tangerang Selatan,59.2762554,17.9674784,125 25
+689,27,16049 Glendale Terrace,Bintaro,Tangerang Selatan,52.06302,37.40518,303773
+690,24,21 Vidon Avenue,BSD,Tangerang Selatan,-21.0945791,55.2455558,97853 CEDEX
+691,9,867 Norway Maple Park,Bintaro,Tangerang Selatan,44.3287491,-76.1635651,K7G
+692,3,30776 Meadow Vale Parkway,BSD,Tangerang Selatan,43.0712553,46.5659164,368157
+693,23,25959 Sachs Road,Bintaro,Tangerang Selatan,7.6392002,123.3058014,9712
+694,15,36169 Ridgeview Plaza,Pamulang,Tangerang Selatan,57.3709349,25.032427,
+695,1,740 Brentwood Pass,Bintaro,Tangerang Selatan,49.7762204,22.6525426,37-741
+696,18,0 Lake View Alley,Bintaro,Tangerang Selatan,49.0862712,17.3385278,687 08
+697,13,494 Pankratz Park,Bintaro,Tangerang Selatan,-7.3434492,112.6764786,
+698,20,83265 Trailsway Pass,Pamulang,Tangerang Selatan,53.771559,38.1392615,301839
+699,4,7011 Hanover Court,BSD,Tangerang Selatan,1.8480062,114.8923533,
+700,14,9 Truax Trail,Pamulang,Tangerang Selatan,45.161017,1.663862,42335 CEDEX
+701,1,34 American Park,BSD,Tangerang Selatan,45.5272739,16.2749715,44273
+702,13,60101 Crowley Avenue,Pamulang,Tangerang Selatan,54.3924957,48.577155,624620
+703,17,0 Dakota Park,BSD,Tangerang Selatan,45.6829132,13.9697218,6215
+704,12,27595 Arkansas Circle,Pamulang,Tangerang Selatan,47.6479788,36.164764,
+705,18,208 Magdeline Crossing,BSD,Tangerang Selatan,50.2837307,2.7425682,62010 CEDEX
+706,28,446 Walton Court,Pamulang,Tangerang Selatan,48.8981844,2.2478659,92404 CEDEX
+707,26,760 Granby Trail,Bintaro,Tangerang Selatan,-14.1387292,-71.4091563,
+708,28,0 Dorton Avenue,Bintaro,Tangerang Selatan,44.840524,82.353656,
+709,27,47 Huxley Court,BSD,Tangerang Selatan,46.64635,131.158416,
+710,20,00 Saint Paul Parkway,Pamulang,Tangerang Selatan,14.5636407,121.0134927,5810
+711,9,3691 Michigan Avenue,Bintaro,Tangerang Selatan,-6.8864,111.583,
+712,20,9428 Susan Crossing,BSD,Tangerang Selatan,59.05729,16.5763043,642 24
+713,23,4979 Mifflin Drive,BSD,Tangerang Selatan,29.584292,111.380014,
+714,6,35 Bashford Center,Bintaro,Tangerang Selatan,45.112439,21.2185241,
+715,6,26433 Corben Center,Bintaro,Tangerang Selatan,34.4912621,-5.1262689,
+716,29,7533 Carey Drive,Pamulang,Tangerang Selatan,51.6698819,34.21546,242315
+717,18,22 Prairie Rose Park,Pamulang,Tangerang Selatan,30.943659,120.934925,
+718,2,7 Gerald Parkway,Bintaro,Tangerang Selatan,42.3866449,47.9018672,368562
+719,7,930 Kingsford Park,Bintaro,Tangerang Selatan,7.3750631,-6.4769877,
+720,15,03477 Gulseth Park,BSD,Tangerang Selatan,46.5807254,125.1344298,
+721,21,45 Kenwood Parkway,BSD,Tangerang Selatan,10.7464075,121.9386578,5404
+722,25,10 Hermina Center,Bintaro,Tangerang Selatan,22.405325,107.353437,
+723,28,8 Eastlawn Street,Bintaro,Tangerang Selatan,52.7107501,-8.5054897,Y34
+724,20,42432 Arizona Junction,Bintaro,Tangerang Selatan,-0.0142486,109.325464,
+725,21,3 Kingsford Plaza,Bintaro,Tangerang Selatan,20.3609414,106.5584071,
+726,30,446 Morningstar Road,BSD,Tangerang Selatan,38.0375021,125.7079231,
+727,25,74377 Corry Lane,BSD,Tangerang Selatan,-24.5323166,32.9831998,
+728,14,275 Waubesa Junction,Pamulang,Tangerang Selatan,51.7930978,23.528792,21-515
+729,25,69 Talmadge Way,Pamulang,Tangerang Selatan,8.0419777,125.1086998,4023
+730,19,001 Tomscot Pass,Pamulang,Tangerang Selatan,-2.6242355,-56.7346167,69150-000
+731,15,4740 Mcbride Lane,Bintaro,Tangerang Selatan,49.4715988,22.4496086,38-722
+732,19,5 Dottie Drive,Bintaro,Tangerang Selatan,38.0249,22.73294,
+733,13,23962 Bunker Hill Lane,Pamulang,Tangerang Selatan,14.880403,120.7063932,2017
+734,21,19 Stuart Point,Bintaro,Tangerang Selatan,14.4693883,121.0059518,5504
+735,14,80 School Crossing,BSD,Tangerang Selatan,-8.0716019,112.1758089,
+736,22,31 Meadow Valley Street,Pamulang,Tangerang Selatan,29.97176,122.323867,
+737,6,51 Blaine Terrace,Bintaro,Tangerang Selatan,28.564189,111.271014,
+738,10,1140 Hoffman Terrace,BSD,Tangerang Selatan,-6.8586226,111.642224,
+739,2,1558 Rockefeller Lane,Bintaro,Tangerang Selatan,59.3778462,18.0367294,170 77
+740,12,53 Columbus Hill,Bintaro,Tangerang Selatan,15.1274943,104.5757366,33130
+741,13,7134 Mcbride Center,Pamulang,Tangerang Selatan,24.726833,115.64556,
+742,21,1631 Jackson Terrace,Bintaro,Tangerang Selatan,-7.2510084,106.9600711,
+743,24,90 Amoth Drive,Pamulang,Tangerang Selatan,41.5126908,21.2170646,6530
+744,19,9 Cherokee Pass,Bintaro,Tangerang Selatan,-1.0469378,-80.6576623,
+745,1,4708 Hermina Alley,Bintaro,Tangerang Selatan,11.6994751,122.2790551,5611
+746,13,6 Hanover Drive,Pamulang,Tangerang Selatan,19.2874648,-99.6494479,93350
+747,22,0669 Fairview Road,Pamulang,Tangerang Selatan,14.4332941,121.0303692,4207
+748,11,97 Sachtjen Point,Pamulang,Tangerang Selatan,31.103759,121.046456,
+749,3,235 Anthes Pass,Pamulang,Tangerang Selatan,38.689871,106.253324,
+750,8,76768 Michigan Junction,Pamulang,Tangerang Selatan,37.9142806,139.0952085,950-0862
+751,12,7 Green Lane,Pamulang,Tangerang Selatan,2.6131897,-75.3915037,413028
+752,25,246 Burrows Park,Bintaro,Tangerang Selatan,-9.4511841,120.0496593,
+753,19,74363 Anhalt Street,BSD,Tangerang Selatan,38.914003,121.614682,
+754,9,5863 Crescent Oaks Lane,Pamulang,Tangerang Selatan,7.3832138,122.804355,1470
+755,29,754 Browning Junction,Pamulang,Tangerang Selatan,40.753655,111.673881,
+756,15,41 Melrose Avenue,Pamulang,Tangerang Selatan,23.4024253,117.1166128,
+757,5,33928 Reindahl Street,BSD,Tangerang Selatan,54.3202047,19.5273042,82-340
+758,16,7938 Calypso Crossing,Bintaro,Tangerang Selatan,-19.4545276,-44.2515505,35700-000
+759,8,514 Ridgeway Junction,BSD,Tangerang Selatan,30.070453,115.944218,
+760,14,55 Debs Parkway,BSD,Tangerang Selatan,46.272758,-79.4298653,P1A
+761,10,728 Talisman Lane,Bintaro,Tangerang Selatan,-6.538,106.4032,
+762,24,566 Brickson Park Road,BSD,Tangerang Selatan,49.189451,-0.804935,17184 CEDEX
+763,24,99827 Ridgeway Court,Pamulang,Tangerang Selatan,48.2678882,2.7122802,77794 CEDEX
+764,20,913 Prentice Parkway,BSD,Tangerang Selatan,6.0808532,7.0014657,
+765,1,037 Lyons Plaza,Bintaro,Tangerang Selatan,-32.2331548,-53.0866941,96330-000
+766,25,701 Hauk Pass,Pamulang,Tangerang Selatan,30.199688,110.674706,
+767,11,293 Randy Pass,Bintaro,Tangerang Selatan,18.41253,122.133225,3514
+768,10,9260 Delladonna Park,Pamulang,Tangerang Selatan,55.1286462,36.6331065,249039
+769,28,87 Ohio Alley,Pamulang,Tangerang Selatan,30.979148,98.312889,
+770,8,83 Basil Circle,BSD,Tangerang Selatan,38.5603056,-121.4970294,95818
+771,19,7754 Dryden Road,BSD,Tangerang Selatan,25.0479835,-77.355413,
+772,24,10 Roxbury Point,Pamulang,Tangerang Selatan,44.2220765,42.0384264,369110
+773,5,43 Nova Road,BSD,Tangerang Selatan,47.0201565,-68.1434988,120 01
+774,13,894 Warner Lane,BSD,Tangerang Selatan,25.274374,118.033863,
+775,26,987 Sheridan Pass,Bintaro,Tangerang Selatan,14.6411839,121.0469082,5407
+776,19,093 Arrowood Point,Bintaro,Tangerang Selatan,30.933652,94.7078,
+777,24,3 Warner Circle,BSD,Tangerang Selatan,57.6581105,11.9042745,421 46
+778,7,331 Grim Place,Pamulang,Tangerang Selatan,24.9936281,121.3009798,
+779,2,6 East Park,BSD,Tangerang Selatan,34.9378859,-81.9021301,29305
+780,20,51316 Golden Leaf Circle,Bintaro,Tangerang Selatan,26.6519555,49.9123454,
+781,26,9857 Carberry Way,BSD,Tangerang Selatan,4.524233,-74.356481,252257
+782,24,58 Loeprich Alley,Bintaro,Tangerang Selatan,19.6938888,-99.2591666,70762
+783,15,4724 Graceland Junction,BSD,Tangerang Selatan,-6.9001,113.5144,
+784,29,85851 Anzinger Parkway,BSD,Tangerang Selatan,-21.35188,-46.4970116,37890-000
+785,29,60 Tony Way,BSD,Tangerang Selatan,4.6101062,114.3311718,
+786,21,158 Truax Hill,BSD,Tangerang Selatan,-7.1918,107.0754,
+787,19,18775 Carioca Pass,Bintaro,Tangerang Selatan,31.851182,35.200835,
+788,5,653 School Court,Pamulang,Tangerang Selatan,18.9133079,72.8228652,
+789,27,7904 Barby Junction,Bintaro,Tangerang Selatan,59.3120256,10.4562219,3114
+790,9,2 Ruskin Trail,Pamulang,Tangerang Selatan,20.4668679,45.5629394,
+791,14,48703 Bobwhite Junction,Pamulang,Tangerang Selatan,-8.6741659,-35.7188463,55400-000
+792,13,872 Mcguire Terrace,BSD,Tangerang Selatan,44.418695,39.5314274,352680
+793,10,70 Carberry Pass,Bintaro,Tangerang Selatan,30.045109,120.249049,
+794,11,69107 Erie Pass,Pamulang,Tangerang Selatan,48.23821,23.5457018,
+795,8,637 Emmet Point,Pamulang,Tangerang Selatan,30.063748,113.562835,
+796,30,49 Eastwood Junction,BSD,Tangerang Selatan,26.006775,104.512603,
+797,25,90377 Clarendon Avenue,Bintaro,Tangerang Selatan,41.270347,123.174325,
+798,16,5961 Grover Junction,Bintaro,Tangerang Selatan,-8.1022828,113.8911914,
+799,21,7 Fieldstone Circle,BSD,Tangerang Selatan,46.05007,-73.43245,K6V
+800,18,2459 Linden Plaza,BSD,Tangerang Selatan,-8.1578871,112.2771485,
+801,27,8 Fuller Crossing,BSD,Tangerang Selatan,30.9578398,107.8655766,
+802,2,5 Havey Drive,BSD,Tangerang Selatan,-8.4318,114.86,
+803,14,639 Lawn Lane,Bintaro,Tangerang Selatan,57.7190929,14.1817062,556 31
+804,13,92819 Hanover Lane,Bintaro,Tangerang Selatan,-21.680817,45.1658261,
+805,9,05660 Ruskin Street,BSD,Tangerang Selatan,32.10233,35.321847,
+806,13,6844 Maywood Crossing,Pamulang,Tangerang Selatan,43.0429124,1.9038837,69367 CEDEX 07
+807,19,648 Butternut Road,Pamulang,Tangerang Selatan,40.8449853,-7.939099,3600-584
+808,3,025 Stang Place,Pamulang,Tangerang Selatan,-6.4185424,106.8502879,
+809,23,3 Beilfuss Trail,BSD,Tangerang Selatan,41.9250632,25.5508839,5145
+810,7,6960 Anniversary Trail,Pamulang,Tangerang Selatan,22.803694,108.3323803,
+811,16,85637 Roxbury Street,Pamulang,Tangerang Selatan,33.868434,113.054801,
+812,4,8142 Reindahl Plaza,Bintaro,Tangerang Selatan,6.8437702,125.2413578,8005
+813,27,437 Monument Parkway,Pamulang,Tangerang Selatan,38.5795991,-8.9474304,2950-538
+814,24,59518 Fuller Point,Bintaro,Tangerang Selatan,-27.1677239,-65.4969437,4142
+815,3,809 Meadow Ridge Place,Pamulang,Tangerang Selatan,37.355469,120.434071,
+816,20,23 Northland Road,Bintaro,Tangerang Selatan,22.6695494,113.2476081,
+817,7,7309 Reindahl Terrace,Pamulang,Tangerang Selatan,40.6230031,19.4690444,
+818,1,7377 Florence Way,BSD,Tangerang Selatan,15.4584584,43.6303053,
+819,2,9137 Barby Park,Pamulang,Tangerang Selatan,-7.606418,110.190865,
+820,19,5916 Eagan Center,Pamulang,Tangerang Selatan,11.8334154,108.8551484,
+821,3,54 Raven Place,BSD,Tangerang Selatan,44.128014,18.1178262,
+822,29,74373 Park Meadow Street,Pamulang,Tangerang Selatan,7.3517838,122.2833466,5503
+823,6,2 Welch Hill,BSD,Tangerang Selatan,35.4674683,-97.4996835,73190
+824,30,1263 Roth Point,Bintaro,Tangerang Selatan,35.8939566,117.9249002,
+825,15,267 Elgar Way,BSD,Tangerang Selatan,24.3158024,109.3826264,
+826,1,6 Merchant Center,BSD,Tangerang Selatan,31.719806,112.257788,
+827,17,15 Arrowood Lane,BSD,Tangerang Selatan,-6.2188206,106.6236044,
+828,19,63 Portage Drive,Pamulang,Tangerang Selatan,36.3213507,136.6477771,920-2327
+829,18,3715 Village Lane,Bintaro,Tangerang Selatan,7.1518505,0.4738293,
+830,9,56465 Garrison Street,Bintaro,Tangerang Selatan,-6.9860581,112.5364292,
+831,23,02 Morningstar Place,Pamulang,Tangerang Selatan,-6.7455152,111.2293563,
+832,12,5 Jenna Alley,Bintaro,Tangerang Selatan,36.3450691,140.3559256,319-0324
+833,18,89107 Kipling Park,BSD,Tangerang Selatan,37.467686,121.153674,
+834,5,93955 Quincy Park,Bintaro,Tangerang Selatan,51.7256101,38.9897424,396931
+835,11,91 Bay Road,BSD,Tangerang Selatan,39.5779145,48.9718588,
+836,16,46 Lunder Place,Pamulang,Tangerang Selatan,19.4146406,-99.1395519,96370
+837,17,548 Meadow Vale Terrace,Pamulang,Tangerang Selatan,44.6500125,17.9557436,
+838,7,397 East Circle,Pamulang,Tangerang Selatan,58.3767785,11.6764538,451 95
+839,27,165 Thierer Hill,Bintaro,Tangerang Selatan,53.9961392,27.7280809,
+840,13,6491 Northridge Crossing,BSD,Tangerang Selatan,-22.433333,26.416667,
+841,18,0 Jay Pass,BSD,Tangerang Selatan,54.7180477,18.4086339,84-100
+842,26,2546 Straubel Pass,Bintaro,Tangerang Selatan,31.211212,121.562754,
+843,6,2 Steensland Road,BSD,Tangerang Selatan,53.4917756,29.3327582,
+844,22,1959 Grasskamp Way,Bintaro,Tangerang Selatan,-24.7073654,-54.0688562,85960-000
+845,8,6664 Hagan Crossing,Bintaro,Tangerang Selatan,-25.6801783,-53.5419225,85770-000
+846,11,4 Dakota Place,BSD,Tangerang Selatan,-7.0807,108.0663,
+847,9,9 Crescent Oaks Center,BSD,Tangerang Selatan,40.8024032,21.4591344,
+848,30,78 Raven Avenue,Pamulang,Tangerang Selatan,-8.3650254,114.6453131,
+849,23,8 Talmadge Pass,BSD,Tangerang Selatan,26.480043,113.778639,
+850,8,48731 Becker Street,Pamulang,Tangerang Selatan,27.088049,119.647769,
+851,5,84 5th Hill,BSD,Tangerang Selatan,14.5265067,104.8888301,34260
+852,24,95432 Hallows Road,BSD,Tangerang Selatan,41.3435561,-8.3773116,4795-193
+853,2,161 Towne Park,Pamulang,Tangerang Selatan,53.29667,16.99062,77-430
+854,28,7 Namekagon Road,Pamulang,Tangerang Selatan,35.370505,103.708354,
+855,27,2818 Forster Court,BSD,Tangerang Selatan,55.3365242,41.6303343,602103
+856,1,123 Bunker Hill Alley,Pamulang,Tangerang Selatan,23.0886013,113.2446381,
+857,17,743 Maple Wood Parkway,BSD,Tangerang Selatan,34.158997,108.906994,
+858,12,55086 Pond Lane,Bintaro,Tangerang Selatan,43.8317876,4.3686291,84042 CEDEX 9
+859,13,203 Havey Court,BSD,Tangerang Selatan,13.966665,121.083337,5614
+860,22,49208 Northland Crossing,BSD,Tangerang Selatan,41.3199734,-7.9720237,4600-730
+861,8,5762 Oak Parkway,BSD,Tangerang Selatan,-21.2028539,-50.4536793,16000-000
+862,9,43 Chinook Pass,Pamulang,Tangerang Selatan,40.3809227,-8.6326289,3060-323
+863,23,9700 Bashford Center,Bintaro,Tangerang Selatan,-6.2852298,106.7813363,
+864,27,3 Buell Drive,Pamulang,Tangerang Selatan,60.562013,29.8532768,188753
+865,3,349 Walton Plaza,Bintaro,Tangerang Selatan,-6.956164,106.7714,
+866,19,9 Delaware Junction,Bintaro,Tangerang Selatan,35.2531076,58.2890043,
+867,2,160 Anniversary Park,Pamulang,Tangerang Selatan,8.27533,-73.868176,134548
+868,16,1403 Hanover Crossing,BSD,Tangerang Selatan,-6.831959,107.0805202,
+869,10,4858 Dayton Drive,BSD,Tangerang Selatan,59.3664053,17.8763622,162 66
+870,6,08142 Rigney Place,BSD,Tangerang Selatan,43.4945737,5.8978018,75318 CEDEX 09
+871,19,1080 Corben Plaza,BSD,Tangerang Selatan,14.0603353,-88.6952444,
+872,12,25 Northridge Parkway,BSD,Tangerang Selatan,22.3121914,90.7218441,4743
+873,3,7 Hintze Crossing,Bintaro,Tangerang Selatan,24.479833,118.089425,
+874,16,95542 Summer Ridge Road,Pamulang,Tangerang Selatan,-5.387502,26.9911288,
+875,17,2 International Street,Bintaro,Tangerang Selatan,26.042443,110.6527,
+876,25,835 Nancy Street,Pamulang,Tangerang Selatan,35.632522,138.9562642,877-1107
+877,21,74302 Commercial Street,Pamulang,Tangerang Selatan,41.5126908,21.2170646,6530
+878,12,462 Norway Maple Point,BSD,Tangerang Selatan,-35.0026606,173.5016887,0420
+879,27,438 Westridge Parkway,BSD,Tangerang Selatan,-3.966667,-80.8833329,
+880,6,338 Iowa Crossing,Pamulang,Tangerang Selatan,51.2804955,9.4266475,34132
+881,17,33630 Prairieview Park,BSD,Tangerang Selatan,50.877972,17.4803923,49-314
+882,9,04215 Pleasure Parkway,Bintaro,Tangerang Selatan,-7.1221059,106.5701927,
+883,2,1341 School Parkway,BSD,Tangerang Selatan,28.2281301,112.9884237,
+884,29,08 Buhler Drive,Bintaro,Tangerang Selatan,32.101031,114.125656,
+885,2,17983 Stephen Park,Pamulang,Tangerang Selatan,43.3177929,-1.9814245,20005
+886,4,7 Ilene Center,BSD,Tangerang Selatan,48.4057628,2.6949635,77304 CEDEX
+887,14,37 Lien Street,Bintaro,Tangerang Selatan,52.1940358,104.246923,142139
+888,10,8 Fair Oaks Parkway,Bintaro,Tangerang Selatan,56.0058358,71.5005566,646130
+889,26,435 Mallory Lane,Pamulang,Tangerang Selatan,59.6170081,52.4618922,612830
+890,7,111 Almo Point,BSD,Tangerang Selatan,16.5065381,105.5943388,
+891,12,9541 Farmco Circle,BSD,Tangerang Selatan,54.0518227,35.229882,249295
+892,7,282 Lunder Alley,Pamulang,Tangerang Selatan,36.67931,10.29195,
+893,10,83 Village Crossing,Bintaro,Tangerang Selatan,40.2544003,44.6027766,
+894,11,102 Nancy Plaza,Bintaro,Tangerang Selatan,-13.4932812,-71.7844893,
+895,14,5 Pankratz Hill,Pamulang,Tangerang Selatan,22.676245,113.418215,
+896,2,407 Mcbride Road,Pamulang,Tangerang Selatan,-22.2528986,-45.7049987,37540-000
+897,30,90440 Dahle Place,Pamulang,Tangerang Selatan,29.0554502,114.1574404,
+898,13,06429 Spenser Court,Pamulang,Tangerang Selatan,-8.5693,116.6242,
+899,14,4 Stoughton Drive,Bintaro,Tangerang Selatan,59.2916062,18.2637328,133 41
+900,7,2442 Forest Dale Junction,Pamulang,Tangerang Selatan,24.287534,102.753733,
+901,2,94 Mitchell Junction,Bintaro,Tangerang Selatan,59.3796798,28.1791333,
+902,18,0 Village Green Drive,Bintaro,Tangerang Selatan,57.6067536,47.9368725,612200
+903,27,2 David Avenue,BSD,Tangerang Selatan,25.84999,115.400234,
+904,17,219 Swallow Alley,Bintaro,Tangerang Selatan,44.5590244,4.7447501,26209 CEDEX
+905,11,24 Banding Lane,BSD,Tangerang Selatan,-7.2117,107.9114,
+906,6,88901 Algoma Circle,Bintaro,Tangerang Selatan,38.822691,114.35056,
+907,30,9 Vidon Plaza,Pamulang,Tangerang Selatan,51.549106,-9.268589,P81
+908,30,81000 Sauthoff Lane,Bintaro,Tangerang Selatan,-7.2760371,107.6925674,
+909,12,41 Meadow Ridge Center,BSD,Tangerang Selatan,-8.3979403,115.4318914,
+910,8,924 Darwin Place,BSD,Tangerang Selatan,19.3803931,-99.1476908,70630
+911,1,209 Scott Terrace,Bintaro,Tangerang Selatan,50.9603536,14.3596743,407 79
+912,5,0 Mallory Street,Bintaro,Tangerang Selatan,56.5288032,42.3295742,155644
+913,22,7136 Clove Crossing,BSD,Tangerang Selatan,27.8469,105.049027,
+914,3,6773 Mcbride Street,Bintaro,Tangerang Selatan,63.4529778,48.8833546,169240
+915,3,4 Park Meadow Parkway,Pamulang,Tangerang Selatan,-40.8114375,-65.0904567,8326
+916,26,82319 Sachtjen Plaza,Pamulang,Tangerang Selatan,43.0429124,1.9038837,69239 CEDEX 02
+917,28,44955 Charing Cross Drive,BSD,Tangerang Selatan,52.4402961,20.6717224,05-160
+918,2,7 Blackbird Lane,Bintaro,Tangerang Selatan,9.80278,118.69861,5301
+919,14,70355 Farmco Point,BSD,Tangerang Selatan,44.00947,67.41062,
+920,4,2635 Toban Point,Pamulang,Tangerang Selatan,23.2252,113.148534,
+921,24,4334 Moose Trail,BSD,Tangerang Selatan,32.478018,117.167563,
+922,22,8 Spenser Circle,BSD,Tangerang Selatan,-8.765095,118.6323132,
+923,5,67519 Fairfield Crossing,BSD,Tangerang Selatan,14.419531,103.1008409,31180
+924,11,0707 Ridge Oak Crossing,BSD,Tangerang Selatan,-31.4847366,-64.2108962,5280
+925,25,37994 Linden Pass,Pamulang,Tangerang Selatan,44.18333,15.65,34320
+926,18,3287 Sommers Drive,Bintaro,Tangerang Selatan,44.9794968,19.6209662,
+927,20,5 Annamark Point,Pamulang,Tangerang Selatan,-32.075,115.779362,
+928,28,5 Holy Cross Plaza,Bintaro,Tangerang Selatan,-1.259553,104.100502,
+929,14,31 Mendota Circle,BSD,Tangerang Selatan,28.1328796,-15.4393074,35010
+930,3,56 Ridge Oak Park,BSD,Tangerang Selatan,31.189496,121.42185,
+931,12,56 Dwight Alley,Bintaro,Tangerang Selatan,32.46392,35.21938,
+932,3,907 Monica Place,Pamulang,Tangerang Selatan,55.0488923,41.1651836,391327
+933,12,0196 Northwestern Center,BSD,Tangerang Selatan,38.35,-81.64,25389
+934,19,613 Holy Cross Avenue,Bintaro,Tangerang Selatan,-15.118465,-40.0660682,45710-000
+935,5,24582 Hudson Point,BSD,Tangerang Selatan,19.258341,110.474648,
+936,24,781 Hooker Trail,Bintaro,Tangerang Selatan,41.1062224,-7.3199429,5155-104
+937,15,16 Upham Street,Bintaro,Tangerang Selatan,30.350192,120.222909,
+938,12,2 Killdeer Alley,Pamulang,Tangerang Selatan,35.7278554,139.6547746,176-0014
+939,9,63 Hollow Ridge Way,BSD,Tangerang Selatan,-7.0138053,108.5700636,
+940,3,6080 Vermont Road,BSD,Tangerang Selatan,64.9142998,77.7663297,629851
+941,14,963 Scott Plaza,Pamulang,Tangerang Selatan,49.7898368,19.8466246,32-438
+942,4,5229 Mandrake Court,Bintaro,Tangerang Selatan,30.728746,112.382644,
+943,25,887 Ronald Regan Pass,Bintaro,Tangerang Selatan,-22.2454935,-50.7031569,19780-000
+944,16,14709 Pankratz Way,Bintaro,Tangerang Selatan,50.749001,15.702767,58-550
+945,15,3596 Sage Court,Pamulang,Tangerang Selatan,5.4238154,-75.8185314,178057
+946,26,827 Northfield Parkway,Pamulang,Tangerang Selatan,9.5259166,45.5346307,
+947,12,22237 Stuart Alley,BSD,Tangerang Selatan,25.386379,114.922922,
+948,9,807 Cardinal Hill,Pamulang,Tangerang Selatan,19.3468041,-99.2002892,87900
+949,17,33532 Banding Parkway,BSD,Tangerang Selatan,-6.588201,106.804564,
+950,14,94229 Scofield Trail,Bintaro,Tangerang Selatan,30.511343,-9.6536246,
+951,11,01624 Troy Trail,Bintaro,Tangerang Selatan,-7.1081786,107.9399848,
+952,9,768 Vera Junction,Bintaro,Tangerang Selatan,36.3988682,139.9492467,321-4551
+953,10,017 Raven Alley,BSD,Tangerang Selatan,34.606214,115.852187,
+954,13,10453 Carioca Junction,BSD,Tangerang Selatan,29.709214,107.606105,
+955,12,15 Bultman Circle,Pamulang,Tangerang Selatan,-34.5078338,-58.5277156,3334
+956,17,8879 Menomonie Drive,Bintaro,Tangerang Selatan,-6.9812818,112.87907,
+957,14,63278 Old Shore Plaza,BSD,Tangerang Selatan,-0.572629,30.41563,
+958,17,0571 Starling Court,Bintaro,Tangerang Selatan,28.871569,105.44174,
+959,23,4 Londonderry Road,Bintaro,Tangerang Selatan,42.4624691,76.1899661,
+960,18,17 Russell Terrace,Bintaro,Tangerang Selatan,39.128291,117.251586,
+961,9,62210 Monterey Hill,Bintaro,Tangerang Selatan,-6.9250071,112.5036493,
+962,20,8 Veith Pass,BSD,Tangerang Selatan,51.8063451,26.0265105,
+963,17,1 Pond Street,BSD,Tangerang Selatan,38.341245,101.193664,
+964,1,0 Basil Crossing,BSD,Tangerang Selatan,36.0720984,49.7013486,
+965,2,16774 Karstens Pass,Pamulang,Tangerang Selatan,41.4204087,-8.3676461,4835-541
+966,10,905 Delaware Terrace,Pamulang,Tangerang Selatan,-7.5471852,112.7137227,
+967,14,73459 Fairfield Park,Pamulang,Tangerang Selatan,45.62,-94.25,56372
+968,20,937 Prairie Rose Road,Bintaro,Tangerang Selatan,52.804249,6.186692,
+969,8,69 Bayside Junction,BSD,Tangerang Selatan,49.1140686,84.4732877,
+970,29,315 Meadow Ridge Street,Pamulang,Tangerang Selatan,40.3999248,49.9789212,
+971,14,74173 Morningstar Drive,Pamulang,Tangerang Selatan,-8.0546105,113.8436013,
+972,11,8 Anhalt Point,BSD,Tangerang Selatan,45.7120639,19.6574694,
+973,21,6 Melvin Pass,BSD,Tangerang Selatan,-27.7828418,-64.2837225,3760
+974,6,6 Northridge Avenue,Pamulang,Tangerang Selatan,-8.5381,123.51,
+975,30,833 Bunker Hill Parkway,BSD,Tangerang Selatan,30.750211,121.134569,
+976,16,0 Rutledge Drive,Bintaro,Tangerang Selatan,42.88,-78.83,14276
+977,25,24 Ludington Pass,BSD,Tangerang Selatan,54.157108,27.2318325,
+978,6,027 Anderson Lane,Bintaro,Tangerang Selatan,55.5146696,35.8272389,142817
+979,20,99461 Stoughton Trail,BSD,Tangerang Selatan,22.948016,113.366904,
+980,3,87 Main Center,Pamulang,Tangerang Selatan,29.5530941,118.9353968,
+981,23,87464 Comanche Hill,Bintaro,Tangerang Selatan,60.986717,14.5654425,792 34
+982,14,57 Waubesa Way,Pamulang,Tangerang Selatan,35.026516,111.00746,
+983,6,72319 Superior Point,Pamulang,Tangerang Selatan,46.6666667,93.25,
+984,24,795 Northfield Point,Pamulang,Tangerang Selatan,59.6099005,16.5448092,725 96
+985,2,4302 Mallory Hill,BSD,Tangerang Selatan,49.16291,127.98658,
+986,29,99037 Kensington Trail,BSD,Tangerang Selatan,33.007669,106.7183225,
+987,6,4 Main Point,Pamulang,Tangerang Selatan,31.93957,121.012416,
+988,8,3194 Upham Crossing,Pamulang,Tangerang Selatan,7.2571325,5.2057909,
+989,17,545 International Trail,Pamulang,Tangerang Selatan,44.7535743,2.2159905,95874 CEDEX
+990,15,8793 Brentwood Parkway,Bintaro,Tangerang Selatan,40.4655049,-8.7183737,3070-505
+991,4,27 Kropf Way,Bintaro,Tangerang Selatan,-8.6212427,122.5146439,
+992,29,39549 Sutherland Avenue,Pamulang,Tangerang Selatan,21.377246,110.250123,
+993,14,2379 Anniversary Center,BSD,Tangerang Selatan,38.143169,117.497651,
+994,18,12158 Maple Wood Point,Pamulang,Tangerang Selatan,28.572029,109.482078,
+995,4,2 Charing Cross Way,Pamulang,Tangerang Selatan,24.102499,115.317446,
+996,16,830 Talmadge Parkway,Bintaro,Tangerang Selatan,-25.2952784,-54.0932225,85884-000
+997,19,68 Westport Parkway,BSD,Tangerang Selatan,52.0379571,43.2923971,412091
+998,11,94476 Doe Crossing Lane,Bintaro,Tangerang Selatan,39.7024946,-8.7377503,2420-031
+999,22,6880 Holy Cross Court,Bintaro,Tangerang Selatan,51.6781161,79.7893754,658969
+1000,3,3 Johnson Lane,Bintaro,Tangerang Selatan,39.0820946,26.3724138,

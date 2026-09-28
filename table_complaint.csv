@@ -1,0 +1,1001 @@
+complaint_id,order_id,user_id,complaint_text,status
+1,46,17,Luntur,Resolved
+2,54,7,Pakaian tertukar,Open
+3,55,13,Luntur,Resolved
+4,9,2,Luntur,In Progress
+5,27,3,Agak lambat,In Progress
+6,28,3,Luntur,In Progress
+7,51,15,Baju kurang wangi,Resolved
+8,47,23,Luntur,Open
+9,3,11,Luntur,In Progress
+10,9,2,Baju kurang wangi,In Progress
+11,23,25,Luntur,Resolved
+12,43,19,Agak lambat,Resolved
+13,43,11,Luntur,Open
+14,37,19,Pakaian tertukar,Open
+15,25,28,Baju kurang wangi,Open
+16,37,20,Luntur,In Progress
+17,6,24,Agak lambat,In Progress
+18,44,2,Luntur,Open
+19,56,16,Pakaian tertukar,Open
+20,14,15,Pakaian tertukar,Resolved
+21,38,26,Luntur,In Progress
+22,39,15,Luntur,In Progress
+23,55,26,Pakaian tertukar,Open
+24,31,29,Baju kurang wangi,In Progress
+25,39,1,Pakaian tertukar,Open
+26,14,13,Baju kurang wangi,Resolved
+27,58,15,Baju kurang wangi,Open
+28,52,10,Agak lambat,In Progress
+29,12,25,Agak lambat,Resolved
+30,15,12,Luntur,In Progress
+31,55,19,Luntur,Resolved
+32,10,9,Pakaian tertukar,In Progress
+33,7,30,Agak lambat,Open
+34,31,23,Pakaian tertukar,In Progress
+35,40,6,Agak lambat,Open
+36,24,2,Luntur,In Progress
+37,42,9,Baju kurang wangi,Resolved
+38,20,19,Agak lambat,Open
+39,28,20,Luntur,In Progress
+40,23,20,Pakaian tertukar,Resolved
+41,2,14,Agak lambat,Resolved
+42,32,12,Luntur,In Progress
+43,2,10,Baju kurang wangi,In Progress
+44,27,18,Pakaian tertukar,Resolved
+45,8,12,Luntur,In Progress
+46,23,9,Agak lambat,Open
+47,5,20,Pakaian tertukar,Open
+48,31,13,Pakaian tertukar,Open
+49,34,8,Pakaian tertukar,Open
+50,49,19,Luntur,In Progress
+51,40,27,Luntur,Resolved
+52,3,21,Pakaian tertukar,Open
+53,39,30,Pakaian tertukar,In Progress
+54,28,10,Baju kurang wangi,In Progress
+55,19,19,Baju kurang wangi,Open
+56,4,5,Agak lambat,Resolved
+57,5,24,Baju kurang wangi,Resolved
+58,48,3,Pakaian tertukar,Resolved
+59,38,27,Baju kurang wangi,In Progress
+60,18,18,Luntur,Open
+61,40,8,Agak lambat,In Progress
+62,43,20,Agak lambat,Resolved
+63,27,9,Luntur,In Progress
+64,41,29,Pakaian tertukar,Open
+65,57,11,Agak lambat,In Progress
+66,57,16,Pakaian tertukar,In Progress
+67,39,10,Baju kurang wangi,Open
+68,3,6,Agak lambat,Open
+69,40,13,Baju kurang wangi,Resolved
+70,18,8,Baju kurang wangi,Resolved
+71,7,5,Pakaian tertukar,Open
+72,48,24,Baju kurang wangi,In Progress
+73,24,13,Agak lambat,In Progress
+74,19,22,Agak lambat,Open
+75,56,8,Agak lambat,Resolved
+76,4,10,Agak lambat,Resolved
+77,36,20,Baju kurang wangi,Resolved
+78,26,16,Agak lambat,Resolved
+79,46,18,Luntur,In Progress
+80,6,28,Baju kurang wangi,Open
+81,32,12,Pakaian tertukar,In Progress
+82,9,1,Agak lambat,Resolved
+83,1,20,Baju kurang wangi,In Progress
+84,13,26,Baju kurang wangi,Open
+85,24,29,Agak lambat,Resolved
+86,51,1,Pakaian tertukar,In Progress
+87,40,5,Pakaian tertukar,Resolved
+88,51,28,Baju kurang wangi,Resolved
+89,33,14,Pakaian tertukar,Resolved
+90,43,12,Baju kurang wangi,Resolved
+91,11,27,Pakaian tertukar,In Progress
+92,10,24,Pakaian tertukar,In Progress
+93,13,6,Luntur,In Progress
+94,1,4,Baju kurang wangi,Open
+95,13,3,Baju kurang wangi,Resolved
+96,57,7,Luntur,In Progress
+97,2,2,Baju kurang wangi,Open
+98,54,22,Luntur,In Progress
+99,49,17,Pakaian tertukar,Open
+100,49,8,Baju kurang wangi,Open
+101,10,8,Luntur,Resolved
+102,51,14,Luntur,Open
+103,48,30,Baju kurang wangi,In Progress
+104,3,13,Agak lambat,In Progress
+105,42,21,Pakaian tertukar,In Progress
+106,20,26,Pakaian tertukar,Resolved
+107,52,23,Agak lambat,Open
+108,35,30,Luntur,Resolved
+109,40,28,Luntur,Resolved
+110,2,15,Baju kurang wangi,Open
+111,3,6,Agak lambat,Resolved
+112,28,26,Luntur,Open
+113,48,17,Luntur,Resolved
+114,54,22,Pakaian tertukar,In Progress
+115,49,25,Luntur,In Progress
+116,38,22,Agak lambat,Resolved
+117,29,1,Luntur,Open
+118,9,3,Pakaian tertukar,Resolved
+119,49,21,Baju kurang wangi,Open
+120,18,2,Luntur,In Progress
+121,52,15,Agak lambat,In Progress
+122,48,11,Baju kurang wangi,Open
+123,55,26,Pakaian tertukar,Resolved
+124,5,12,Pakaian tertukar,In Progress
+125,57,10,Luntur,In Progress
+126,44,11,Luntur,Open
+127,31,2,Pakaian tertukar,In Progress
+128,35,20,Luntur,In Progress
+129,44,13,Pakaian tertukar,In Progress
+130,28,16,Agak lambat,Open
+131,51,17,Luntur,In Progress
+132,27,1,Baju kurang wangi,In Progress
+133,49,3,Pakaian tertukar,Resolved
+134,37,11,Agak lambat,Open
+135,56,27,Agak lambat,Open
+136,10,30,Baju kurang wangi,Open
+137,3,7,Baju kurang wangi,Open
+138,40,12,Baju kurang wangi,Resolved
+139,22,14,Pakaian tertukar,In Progress
+140,44,1,Baju kurang wangi,In Progress
+141,37,26,Pakaian tertukar,Open
+142,36,25,Agak lambat,Resolved
+143,24,15,Agak lambat,Resolved
+144,16,12,Pakaian tertukar,Open
+145,39,11,Pakaian tertukar,In Progress
+146,37,28,Agak lambat,Open
+147,32,20,Agak lambat,In Progress
+148,11,5,Pakaian tertukar,Resolved
+149,11,28,Luntur,Open
+150,17,4,Agak lambat,In Progress
+151,39,30,Pakaian tertukar,Resolved
+152,41,21,Baju kurang wangi,Resolved
+153,7,5,Agak lambat,In Progress
+154,3,14,Pakaian tertukar,Open
+155,30,29,Pakaian tertukar,In Progress
+156,23,28,Agak lambat,Resolved
+157,43,7,Agak lambat,Open
+158,39,16,Luntur,Resolved
+159,1,23,Agak lambat,Open
+160,43,29,Luntur,In Progress
+161,10,16,Pakaian tertukar,Resolved
+162,19,23,Baju kurang wangi,Open
+163,34,21,Pakaian tertukar,Open
+164,40,20,Pakaian tertukar,Resolved
+165,21,25,Agak lambat,Resolved
+166,9,16,Baju kurang wangi,Resolved
+167,7,24,Luntur,In Progress
+168,47,26,Agak lambat,In Progress
+169,46,12,Baju kurang wangi,In Progress
+170,52,26,Pakaian tertukar,Open
+171,53,10,Pakaian tertukar,Open
+172,10,1,Luntur,In Progress
+173,35,14,Pakaian tertukar,Resolved
+174,52,1,Pakaian tertukar,Resolved
+175,8,9,Baju kurang wangi,Resolved
+176,57,19,Agak lambat,In Progress
+177,56,16,Luntur,In Progress
+178,2,13,Baju kurang wangi,Resolved
+179,50,5,Agak lambat,Open
+180,55,21,Agak lambat,Open
+181,15,20,Agak lambat,Resolved
+182,53,28,Baju kurang wangi,Open
+183,56,20,Luntur,Open
+184,15,5,Baju kurang wangi,Open
+185,19,6,Luntur,In Progress
+186,25,26,Agak lambat,In Progress
+187,55,27,Agak lambat,Open
+188,29,23,Luntur,Resolved
+189,55,28,Luntur,In Progress
+190,50,13,Baju kurang wangi,In Progress
+191,41,23,Baju kurang wangi,Resolved
+192,34,25,Baju kurang wangi,Open
+193,29,20,Agak lambat,Open
+194,35,11,Agak lambat,Open
+195,22,28,Luntur,In Progress
+196,35,14,Agak lambat,In Progress
+197,60,26,Pakaian tertukar,Resolved
+198,14,26,Baju kurang wangi,In Progress
+199,33,25,Pakaian tertukar,Resolved
+200,59,12,Luntur,Open
+201,51,10,Baju kurang wangi,In Progress
+202,33,27,Agak lambat,Open
+203,44,11,Baju kurang wangi,Resolved
+204,26,2,Agak lambat,Resolved
+205,44,3,Luntur,Resolved
+206,53,20,Agak lambat,Resolved
+207,42,18,Luntur,In Progress
+208,21,7,Agak lambat,Resolved
+209,8,8,Luntur,Open
+210,55,12,Baju kurang wangi,Resolved
+211,51,22,Agak lambat,Resolved
+212,14,26,Agak lambat,Open
+213,58,22,Luntur,In Progress
+214,45,23,Agak lambat,Resolved
+215,30,9,Agak lambat,Open
+216,13,9,Pakaian tertukar,Resolved
+217,58,28,Baju kurang wangi,Open
+218,38,19,Baju kurang wangi,In Progress
+219,5,11,Pakaian tertukar,Resolved
+220,37,5,Baju kurang wangi,Resolved
+221,8,24,Agak lambat,Open
+222,47,18,Luntur,Resolved
+223,26,27,Luntur,In Progress
+224,30,21,Agak lambat,Resolved
+225,31,2,Luntur,Resolved
+226,25,15,Agak lambat,Resolved
+227,31,10,Luntur,In Progress
+228,35,16,Agak lambat,In Progress
+229,29,16,Pakaian tertukar,In Progress
+230,18,7,Baju kurang wangi,In Progress
+231,4,4,Luntur,Resolved
+232,24,5,Pakaian tertukar,Resolved
+233,27,12,Luntur,In Progress
+234,52,16,Agak lambat,Resolved
+235,25,6,Luntur,Resolved
+236,12,22,Agak lambat,In Progress
+237,36,20,Luntur,Open
+238,17,12,Agak lambat,In Progress
+239,52,4,Agak lambat,Open
+240,20,12,Baju kurang wangi,Open
+241,5,29,Luntur,Resolved
+242,17,25,Agak lambat,Open
+243,17,25,Baju kurang wangi,Resolved
+244,11,3,Luntur,In Progress
+245,22,8,Baju kurang wangi,In Progress
+246,25,23,Baju kurang wangi,Resolved
+247,1,3,Baju kurang wangi,Resolved
+248,60,13,Pakaian tertukar,Resolved
+249,6,22,Agak lambat,Open
+250,36,14,Agak lambat,In Progress
+251,47,10,Pakaian tertukar,Open
+252,32,29,Luntur,In Progress
+253,5,14,Agak lambat,Open
+254,15,1,Baju kurang wangi,Open
+255,42,14,Baju kurang wangi,Resolved
+256,14,13,Baju kurang wangi,Resolved
+257,18,20,Baju kurang wangi,Open
+258,23,20,Pakaian tertukar,In Progress
+259,35,15,Luntur,In Progress
+260,25,12,Agak lambat,Resolved
+261,18,25,Agak lambat,In Progress
+262,24,2,Baju kurang wangi,Open
+263,10,4,Pakaian tertukar,In Progress
+264,16,10,Agak lambat,Resolved
+265,60,20,Pakaian tertukar,Open
+266,5,4,Luntur,Open
+267,34,9,Baju kurang wangi,Open
+268,29,24,Agak lambat,Open
+269,26,8,Agak lambat,Open
+270,7,18,Baju kurang wangi,Open
+271,8,21,Pakaian tertukar,Resolved
+272,1,27,Baju kurang wangi,Resolved
+273,1,26,Luntur,In Progress
+274,39,28,Baju kurang wangi,Open
+275,23,11,Baju kurang wangi,Open
+276,30,15,Luntur,In Progress
+277,52,18,Pakaian tertukar,Open
+278,10,13,Luntur,In Progress
+279,37,16,Baju kurang wangi,Resolved
+280,49,8,Pakaian tertukar,In Progress
+281,34,20,Baju kurang wangi,Resolved
+282,9,15,Luntur,Open
+283,50,28,Baju kurang wangi,Open
+284,27,16,Agak lambat,In Progress
+285,34,3,Luntur,In Progress
+286,56,24,Pakaian tertukar,Resolved
+287,55,9,Luntur,Resolved
+288,19,13,Pakaian tertukar,In Progress
+289,7,22,Agak lambat,Resolved
+290,29,22,Pakaian tertukar,Open
+291,4,28,Agak lambat,Open
+292,34,17,Luntur,Resolved
+293,34,4,Pakaian tertukar,In Progress
+294,20,6,Pakaian tertukar,Resolved
+295,4,23,Baju kurang wangi,In Progress
+296,21,13,Agak lambat,In Progress
+297,45,23,Pakaian tertukar,Resolved
+298,26,3,Baju kurang wangi,Resolved
+299,57,19,Agak lambat,Open
+300,49,30,Luntur,Resolved
+301,14,14,Baju kurang wangi,Open
+302,33,23,Pakaian tertukar,Open
+303,4,29,Baju kurang wangi,Open
+304,6,20,Pakaian tertukar,Resolved
+305,52,5,Baju kurang wangi,In Progress
+306,54,6,Pakaian tertukar,In Progress
+307,40,25,Luntur,In Progress
+308,6,25,Pakaian tertukar,Resolved
+309,22,15,Luntur,In Progress
+310,31,11,Agak lambat,In Progress
+311,35,1,Pakaian tertukar,Open
+312,51,29,Luntur,In Progress
+313,4,28,Pakaian tertukar,Open
+314,37,27,Pakaian tertukar,Open
+315,8,27,Luntur,In Progress
+316,20,11,Pakaian tertukar,Open
+317,48,13,Luntur,In Progress
+318,25,16,Pakaian tertukar,Resolved
+319,59,26,Agak lambat,In Progress
+320,6,17,Pakaian tertukar,Open
+321,16,13,Agak lambat,In Progress
+322,2,7,Baju kurang wangi,Open
+323,39,16,Baju kurang wangi,Resolved
+324,20,3,Pakaian tertukar,Resolved
+325,53,22,Pakaian tertukar,In Progress
+326,18,14,Luntur,Resolved
+327,20,26,Pakaian tertukar,Open
+328,1,12,Luntur,Resolved
+329,59,27,Agak lambat,Open
+330,59,27,Baju kurang wangi,Open
+331,50,16,Pakaian tertukar,In Progress
+332,42,1,Luntur,In Progress
+333,26,28,Agak lambat,In Progress
+334,15,19,Pakaian tertukar,Resolved
+335,45,24,Luntur,In Progress
+336,37,22,Pakaian tertukar,Resolved
+337,41,7,Baju kurang wangi,Resolved
+338,22,10,Baju kurang wangi,Open
+339,50,5,Luntur,Resolved
+340,32,7,Baju kurang wangi,Open
+341,10,10,Agak lambat,Open
+342,35,26,Baju kurang wangi,Open
+343,41,1,Luntur,Open
+344,31,11,Pakaian tertukar,In Progress
+345,13,23,Luntur,Open
+346,28,23,Pakaian tertukar,In Progress
+347,17,7,Luntur,Open
+348,56,17,Baju kurang wangi,Open
+349,6,6,Pakaian tertukar,In Progress
+350,47,20,Baju kurang wangi,In Progress
+351,35,12,Agak lambat,In Progress
+352,30,29,Pakaian tertukar,Open
+353,44,21,Pakaian tertukar,In Progress
+354,37,1,Agak lambat,Open
+355,28,23,Pakaian tertukar,Resolved
+356,18,19,Baju kurang wangi,Open
+357,51,14,Pakaian tertukar,Open
+358,30,24,Luntur,Open
+359,13,20,Baju kurang wangi,Open
+360,13,15,Baju kurang wangi,In Progress
+361,2,30,Agak lambat,Open
+362,33,7,Agak lambat,In Progress
+363,23,13,Luntur,Resolved
+364,41,4,Luntur,Open
+365,33,19,Baju kurang wangi,Open
+366,46,20,Luntur,Resolved
+367,39,3,Baju kurang wangi,Open
+368,59,7,Luntur,Resolved
+369,14,6,Baju kurang wangi,In Progress
+370,58,29,Pakaian tertukar,Open
+371,10,3,Baju kurang wangi,In Progress
+372,7,17,Agak lambat,Resolved
+373,7,30,Agak lambat,Resolved
+374,29,10,Baju kurang wangi,In Progress
+375,6,13,Agak lambat,In Progress
+376,7,11,Baju kurang wangi,Resolved
+377,59,25,Luntur,Resolved
+378,17,8,Luntur,In Progress
+379,26,17,Agak lambat,In Progress
+380,43,30,Luntur,Open
+381,59,28,Pakaian tertukar,Resolved
+382,3,7,Baju kurang wangi,Resolved
+383,21,1,Agak lambat,Resolved
+384,48,30,Agak lambat,In Progress
+385,55,29,Baju kurang wangi,In Progress
+386,24,3,Baju kurang wangi,Open
+387,57,25,Pakaian tertukar,Open
+388,7,6,Luntur,Open
+389,35,14,Luntur,In Progress
+390,20,13,Baju kurang wangi,Open
+391,41,28,Agak lambat,In Progress
+392,38,20,Luntur,Open
+393,36,10,Agak lambat,Open
+394,50,1,Pakaian tertukar,Resolved
+395,9,7,Luntur,Open
+396,3,19,Luntur,Resolved
+397,2,27,Baju kurang wangi,In Progress
+398,25,17,Luntur,In Progress
+399,60,15,Luntur,In Progress
+400,12,15,Luntur,Open
+401,48,19,Agak lambat,Open
+402,30,5,Luntur,In Progress
+403,16,6,Luntur,Open
+404,60,7,Luntur,Open
+405,34,5,Pakaian tertukar,Open
+406,56,6,Agak lambat,In Progress
+407,53,18,Pakaian tertukar,Resolved
+408,36,1,Pakaian tertukar,Resolved
+409,38,7,Baju kurang wangi,In Progress
+410,50,19,Luntur,Resolved
+411,8,14,Baju kurang wangi,Open
+412,30,22,Luntur,Open
+413,47,18,Luntur,In Progress
+414,32,1,Pakaian tertukar,Open
+415,26,6,Luntur,Open
+416,52,13,Baju kurang wangi,Open
+417,27,8,Pakaian tertukar,In Progress
+418,14,11,Luntur,In Progress
+419,56,14,Agak lambat,In Progress
+420,14,2,Pakaian tertukar,In Progress
+421,27,10,Agak lambat,Resolved
+422,46,5,Agak lambat,In Progress
+423,44,10,Baju kurang wangi,In Progress
+424,11,28,Pakaian tertukar,Open
+425,4,16,Pakaian tertukar,Resolved
+426,36,14,Baju kurang wangi,In Progress
+427,50,16,Pakaian tertukar,Resolved
+428,15,26,Pakaian tertukar,Open
+429,46,27,Luntur,Open
+430,38,23,Pakaian tertukar,In Progress
+431,32,12,Luntur,Resolved
+432,24,7,Luntur,Resolved
+433,53,6,Baju kurang wangi,In Progress
+434,4,2,Baju kurang wangi,Resolved
+435,29,15,Luntur,Resolved
+436,38,1,Luntur,Open
+437,40,22,Baju kurang wangi,Resolved
+438,14,14,Agak lambat,Resolved
+439,10,10,Baju kurang wangi,Open
+440,17,19,Agak lambat,Open
+441,48,8,Agak lambat,Open
+442,41,13,Baju kurang wangi,Open
+443,43,3,Baju kurang wangi,Resolved
+444,44,14,Luntur,Resolved
+445,47,3,Baju kurang wangi,Resolved
+446,24,5,Luntur,In Progress
+447,39,16,Baju kurang wangi,In Progress
+448,21,12,Agak lambat,Open
+449,32,27,Baju kurang wangi,Open
+450,40,11,Pakaian tertukar,Open
+451,52,14,Baju kurang wangi,Open
+452,31,19,Agak lambat,In Progress
+453,56,13,Luntur,Open
+454,5,22,Luntur,Open
+455,40,21,Baju kurang wangi,Open
+456,5,30,Baju kurang wangi,In Progress
+457,22,8,Pakaian tertukar,Open
+458,8,26,Agak lambat,In Progress
+459,46,18,Luntur,In Progress
+460,47,19,Pakaian tertukar,Resolved
+461,31,14,Agak lambat,Resolved
+462,17,14,Baju kurang wangi,In Progress
+463,18,9,Pakaian tertukar,In Progress
+464,58,11,Baju kurang wangi,Resolved
+465,42,25,Agak lambat,Resolved
+466,44,5,Agak lambat,In Progress
+467,40,9,Luntur,Open
+468,33,19,Agak lambat,In Progress
+469,29,20,Luntur,In Progress
+470,1,3,Baju kurang wangi,In Progress
+471,19,19,Pakaian tertukar,Open
+472,35,27,Luntur,Open
+473,45,29,Baju kurang wangi,Open
+474,31,21,Agak lambat,In Progress
+475,25,25,Pakaian tertukar,Open
+476,60,8,Baju kurang wangi,In Progress
+477,17,5,Luntur,Open
+478,13,3,Pakaian tertukar,Resolved
+479,47,27,Pakaian tertukar,In Progress
+480,58,19,Baju kurang wangi,In Progress
+481,21,10,Pakaian tertukar,Open
+482,23,26,Agak lambat,Open
+483,49,18,Luntur,Resolved
+484,4,21,Agak lambat,In Progress
+485,39,4,Agak lambat,Open
+486,23,6,Agak lambat,Open
+487,32,9,Agak lambat,Open
+488,19,7,Agak lambat,In Progress
+489,51,3,Luntur,Open
+490,37,22,Luntur,Open
+491,58,17,Luntur,Open
+492,50,7,Luntur,In Progress
+493,53,1,Pakaian tertukar,Open
+494,16,24,Agak lambat,In Progress
+495,40,9,Baju kurang wangi,In Progress
+496,12,15,Luntur,In Progress
+497,32,17,Baju kurang wangi,In Progress
+498,17,28,Baju kurang wangi,Open
+499,25,5,Luntur,Open
+500,42,3,Agak lambat,In Progress
+501,28,21,Baju kurang wangi,In Progress
+502,26,26,Agak lambat,Resolved
+503,13,28,Agak lambat,In Progress
+504,26,2,Pakaian tertukar,In Progress
+505,32,13,Pakaian tertukar,In Progress
+506,36,22,Pakaian tertukar,Resolved
+507,35,2,Luntur,Resolved
+508,33,30,Baju kurang wangi,Resolved
+509,42,24,Agak lambat,Open
+510,44,23,Agak lambat,Resolved
+511,55,19,Pakaian tertukar,In Progress
+512,19,15,Agak lambat,In Progress
+513,6,27,Pakaian tertukar,Open
+514,17,20,Baju kurang wangi,Open
+515,15,3,Luntur,Open
+516,57,6,Luntur,Resolved
+517,35,29,Luntur,Open
+518,54,4,Pakaian tertukar,Open
+519,51,15,Baju kurang wangi,Open
+520,28,21,Baju kurang wangi,In Progress
+521,43,23,Luntur,Resolved
+522,60,22,Agak lambat,Resolved
+523,59,4,Luntur,Open
+524,40,14,Luntur,Open
+525,55,14,Luntur,Open
+526,46,20,Pakaian tertukar,Open
+527,30,12,Baju kurang wangi,Open
+528,7,9,Baju kurang wangi,Open
+529,56,19,Agak lambat,In Progress
+530,42,18,Luntur,In Progress
+531,37,30,Baju kurang wangi,Resolved
+532,55,30,Luntur,Resolved
+533,36,25,Pakaian tertukar,In Progress
+534,58,13,Pakaian tertukar,In Progress
+535,52,19,Luntur,Open
+536,3,16,Baju kurang wangi,Resolved
+537,2,20,Agak lambat,In Progress
+538,28,16,Luntur,Resolved
+539,25,2,Pakaian tertukar,Open
+540,15,2,Pakaian tertukar,In Progress
+541,10,25,Baju kurang wangi,In Progress
+542,29,17,Agak lambat,In Progress
+543,33,24,Pakaian tertukar,In Progress
+544,29,20,Agak lambat,Resolved
+545,27,3,Pakaian tertukar,Open
+546,33,1,Pakaian tertukar,In Progress
+547,32,7,Luntur,Open
+548,12,22,Baju kurang wangi,In Progress
+549,42,7,Luntur,In Progress
+550,45,13,Baju kurang wangi,Resolved
+551,48,20,Luntur,Open
+552,1,2,Baju kurang wangi,In Progress
+553,39,1,Pakaian tertukar,In Progress
+554,56,22,Baju kurang wangi,Resolved
+555,57,12,Baju kurang wangi,Resolved
+556,16,10,Agak lambat,In Progress
+557,15,22,Luntur,Resolved
+558,23,17,Baju kurang wangi,Resolved
+559,11,16,Baju kurang wangi,Resolved
+560,25,28,Agak lambat,Resolved
+561,11,15,Agak lambat,Resolved
+562,28,17,Pakaian tertukar,Open
+563,29,9,Pakaian tertukar,In Progress
+564,19,28,Pakaian tertukar,Open
+565,49,8,Agak lambat,In Progress
+566,39,19,Agak lambat,Open
+567,53,13,Agak lambat,Resolved
+568,18,8,Agak lambat,Resolved
+569,44,19,Luntur,Open
+570,44,14,Agak lambat,Open
+571,42,20,Agak lambat,In Progress
+572,30,29,Agak lambat,Resolved
+573,43,20,Luntur,Open
+574,30,7,Agak lambat,Open
+575,14,15,Pakaian tertukar,Resolved
+576,39,26,Baju kurang wangi,Open
+577,4,27,Agak lambat,In Progress
+578,41,11,Baju kurang wangi,In Progress
+579,13,25,Luntur,Resolved
+580,9,4,Luntur,Resolved
+581,5,4,Agak lambat,Resolved
+582,35,6,Baju kurang wangi,Open
+583,26,12,Agak lambat,Open
+584,58,9,Baju kurang wangi,In Progress
+585,41,17,Agak lambat,Open
+586,7,13,Luntur,Resolved
+587,41,29,Agak lambat,Resolved
+588,4,21,Baju kurang wangi,Open
+589,48,16,Agak lambat,In Progress
+590,20,15,Agak lambat,In Progress
+591,15,18,Agak lambat,Resolved
+592,55,20,Agak lambat,In Progress
+593,25,12,Luntur,Open
+594,16,2,Pakaian tertukar,Open
+595,45,10,Baju kurang wangi,In Progress
+596,16,26,Agak lambat,In Progress
+597,57,2,Agak lambat,Resolved
+598,36,4,Baju kurang wangi,In Progress
+599,8,24,Pakaian tertukar,In Progress
+600,56,16,Agak lambat,In Progress
+601,46,24,Agak lambat,In Progress
+602,28,30,Pakaian tertukar,In Progress
+603,45,29,Baju kurang wangi,Open
+604,45,2,Luntur,In Progress
+605,24,1,Luntur,Resolved
+606,13,27,Agak lambat,Open
+607,44,13,Luntur,In Progress
+608,49,22,Luntur,In Progress
+609,36,6,Agak lambat,In Progress
+610,48,27,Pakaian tertukar,Open
+611,58,15,Baju kurang wangi,Open
+612,2,11,Pakaian tertukar,In Progress
+613,49,11,Pakaian tertukar,Resolved
+614,17,7,Agak lambat,In Progress
+615,4,21,Luntur,Resolved
+616,50,6,Pakaian tertukar,Resolved
+617,52,9,Luntur,Resolved
+618,12,16,Baju kurang wangi,In Progress
+619,24,27,Baju kurang wangi,Open
+620,44,11,Baju kurang wangi,Open
+621,24,27,Agak lambat,Open
+622,60,1,Agak lambat,In Progress
+623,28,25,Pakaian tertukar,Open
+624,25,1,Luntur,Open
+625,10,19,Baju kurang wangi,Open
+626,17,15,Baju kurang wangi,In Progress
+627,40,8,Luntur,Resolved
+628,2,18,Pakaian tertukar,In Progress
+629,3,10,Baju kurang wangi,Resolved
+630,46,29,Baju kurang wangi,In Progress
+631,9,18,Baju kurang wangi,In Progress
+632,36,9,Agak lambat,Resolved
+633,8,1,Luntur,Open
+634,15,26,Baju kurang wangi,Open
+635,57,23,Baju kurang wangi,Open
+636,30,2,Agak lambat,In Progress
+637,6,12,Luntur,Open
+638,35,4,Luntur,Open
+639,42,11,Luntur,In Progress
+640,11,30,Luntur,Resolved
+641,52,3,Agak lambat,Open
+642,16,9,Pakaian tertukar,Open
+643,46,13,Agak lambat,Open
+644,33,9,Agak lambat,Resolved
+645,56,20,Agak lambat,Open
+646,40,1,Pakaian tertukar,Open
+647,60,21,Agak lambat,In Progress
+648,38,30,Baju kurang wangi,In Progress
+649,14,10,Pakaian tertukar,In Progress
+650,34,20,Baju kurang wangi,In Progress
+651,29,16,Baju kurang wangi,In Progress
+652,36,6,Agak lambat,Resolved
+653,24,6,Baju kurang wangi,In Progress
+654,10,5,Luntur,In Progress
+655,14,16,Luntur,Resolved
+656,48,21,Luntur,Resolved
+657,45,30,Agak lambat,Open
+658,43,6,Agak lambat,In Progress
+659,48,10,Agak lambat,Open
+660,10,21,Baju kurang wangi,In Progress
+661,35,14,Baju kurang wangi,In Progress
+662,20,16,Pakaian tertukar,Open
+663,58,24,Baju kurang wangi,Resolved
+664,48,13,Pakaian tertukar,Open
+665,17,29,Agak lambat,Open
+666,26,25,Baju kurang wangi,Resolved
+667,16,25,Pakaian tertukar,Open
+668,59,27,Agak lambat,Resolved
+669,28,7,Pakaian tertukar,In Progress
+670,56,6,Baju kurang wangi,Open
+671,59,1,Pakaian tertukar,Open
+672,2,20,Pakaian tertukar,Resolved
+673,11,27,Pakaian tertukar,Resolved
+674,49,22,Baju kurang wangi,Open
+675,58,5,Luntur,In Progress
+676,6,6,Agak lambat,In Progress
+677,36,20,Agak lambat,In Progress
+678,32,9,Agak lambat,Open
+679,43,14,Luntur,Open
+680,33,25,Luntur,In Progress
+681,51,30,Pakaian tertukar,Open
+682,2,5,Baju kurang wangi,In Progress
+683,34,21,Agak lambat,Open
+684,22,12,Baju kurang wangi,Resolved
+685,37,28,Baju kurang wangi,Open
+686,50,20,Luntur,Resolved
+687,13,14,Baju kurang wangi,Open
+688,4,21,Pakaian tertukar,In Progress
+689,47,29,Luntur,In Progress
+690,21,28,Luntur,In Progress
+691,55,23,Luntur,In Progress
+692,55,20,Baju kurang wangi,Resolved
+693,47,29,Luntur,In Progress
+694,60,10,Baju kurang wangi,In Progress
+695,47,21,Luntur,Resolved
+696,27,11,Luntur,Open
+697,34,5,Pakaian tertukar,Open
+698,55,15,Luntur,Open
+699,20,14,Luntur,Resolved
+700,51,7,Luntur,In Progress
+701,59,3,Agak lambat,Resolved
+702,44,9,Baju kurang wangi,Open
+703,57,6,Baju kurang wangi,In Progress
+704,31,29,Pakaian tertukar,In Progress
+705,10,26,Pakaian tertukar,In Progress
+706,34,26,Baju kurang wangi,In Progress
+707,10,5,Agak lambat,Open
+708,17,11,Pakaian tertukar,In Progress
+709,24,5,Pakaian tertukar,In Progress
+710,47,30,Baju kurang wangi,In Progress
+711,9,24,Baju kurang wangi,In Progress
+712,1,14,Agak lambat,In Progress
+713,11,27,Pakaian tertukar,Resolved
+714,9,25,Luntur,Resolved
+715,55,25,Luntur,Resolved
+716,25,25,Pakaian tertukar,Open
+717,10,27,Agak lambat,In Progress
+718,5,5,Luntur,In Progress
+719,16,3,Agak lambat,Open
+720,8,28,Luntur,Resolved
+721,22,21,Luntur,In Progress
+722,43,4,Pakaian tertukar,Open
+723,7,30,Luntur,In Progress
+724,40,9,Baju kurang wangi,Resolved
+725,19,23,Pakaian tertukar,Open
+726,45,13,Baju kurang wangi,Open
+727,46,9,Luntur,Open
+728,45,26,Luntur,Resolved
+729,57,16,Pakaian tertukar,Resolved
+730,37,18,Pakaian tertukar,In Progress
+731,33,4,Agak lambat,In Progress
+732,54,29,Agak lambat,Open
+733,47,12,Luntur,In Progress
+734,34,8,Pakaian tertukar,In Progress
+735,12,11,Pakaian tertukar,In Progress
+736,29,28,Agak lambat,In Progress
+737,57,4,Luntur,Open
+738,45,6,Pakaian tertukar,Resolved
+739,36,15,Luntur,Open
+740,39,5,Baju kurang wangi,Open
+741,30,26,Luntur,Resolved
+742,19,15,Baju kurang wangi,Resolved
+743,19,2,Pakaian tertukar,In Progress
+744,4,1,Baju kurang wangi,In Progress
+745,22,21,Agak lambat,In Progress
+746,46,15,Luntur,Open
+747,23,24,Agak lambat,Resolved
+748,8,5,Agak lambat,Open
+749,11,21,Luntur,In Progress
+750,26,17,Agak lambat,Resolved
+751,51,20,Pakaian tertukar,In Progress
+752,42,26,Pakaian tertukar,Open
+753,13,4,Agak lambat,Open
+754,2,9,Agak lambat,In Progress
+755,29,11,Pakaian tertukar,In Progress
+756,57,7,Baju kurang wangi,Open
+757,56,21,Agak lambat,Resolved
+758,37,6,Luntur,Open
+759,9,25,Luntur,Resolved
+760,9,13,Pakaian tertukar,In Progress
+761,29,25,Pakaian tertukar,In Progress
+762,19,17,Luntur,In Progress
+763,30,4,Pakaian tertukar,Resolved
+764,47,10,Pakaian tertukar,In Progress
+765,52,7,Baju kurang wangi,Resolved
+766,17,21,Pakaian tertukar,Resolved
+767,37,23,Baju kurang wangi,Open
+768,30,8,Baju kurang wangi,In Progress
+769,56,17,Baju kurang wangi,Resolved
+770,20,11,Agak lambat,In Progress
+771,13,30,Baju kurang wangi,Resolved
+772,12,12,Agak lambat,Resolved
+773,49,26,Pakaian tertukar,In Progress
+774,4,3,Pakaian tertukar,Resolved
+775,51,23,Agak lambat,Open
+776,10,23,Pakaian tertukar,Resolved
+777,55,15,Pakaian tertukar,Open
+778,41,14,Pakaian tertukar,Open
+779,17,1,Baju kurang wangi,Open
+780,38,7,Agak lambat,Open
+781,8,10,Agak lambat,Open
+782,27,11,Luntur,Resolved
+783,45,26,Agak lambat,In Progress
+784,42,5,Agak lambat,Resolved
+785,34,27,Luntur,In Progress
+786,24,4,Pakaian tertukar,In Progress
+787,57,16,Luntur,Resolved
+788,35,5,Baju kurang wangi,Resolved
+789,56,24,Agak lambat,Resolved
+790,38,5,Agak lambat,Resolved
+791,17,26,Agak lambat,In Progress
+792,11,29,Luntur,Open
+793,28,30,Agak lambat,In Progress
+794,56,3,Baju kurang wangi,Resolved
+795,18,8,Baju kurang wangi,In Progress
+796,59,10,Agak lambat,Open
+797,35,5,Baju kurang wangi,Open
+798,23,16,Baju kurang wangi,Open
+799,41,16,Baju kurang wangi,Resolved
+800,51,15,Pakaian tertukar,Open
+801,8,13,Agak lambat,Resolved
+802,2,4,Baju kurang wangi,Resolved
+803,45,12,Baju kurang wangi,Open
+804,16,10,Luntur,Resolved
+805,30,1,Pakaian tertukar,In Progress
+806,20,14,Agak lambat,Resolved
+807,19,15,Baju kurang wangi,Open
+808,21,3,Pakaian tertukar,Resolved
+809,19,6,Agak lambat,Open
+810,30,3,Agak lambat,Resolved
+811,47,1,Baju kurang wangi,Open
+812,33,29,Luntur,In Progress
+813,60,9,Luntur,Open
+814,58,4,Luntur,Resolved
+815,35,25,Agak lambat,Open
+816,51,17,Agak lambat,Resolved
+817,29,15,Agak lambat,Resolved
+818,42,5,Pakaian tertukar,Open
+819,40,11,Luntur,In Progress
+820,10,2,Luntur,Resolved
+821,17,7,Baju kurang wangi,Resolved
+822,29,28,Baju kurang wangi,In Progress
+823,23,26,Pakaian tertukar,In Progress
+824,7,8,Agak lambat,Resolved
+825,58,6,Pakaian tertukar,Open
+826,39,23,Agak lambat,In Progress
+827,22,23,Luntur,In Progress
+828,35,30,Baju kurang wangi,Resolved
+829,11,18,Baju kurang wangi,In Progress
+830,45,11,Baju kurang wangi,In Progress
+831,60,28,Agak lambat,Resolved
+832,49,17,Baju kurang wangi,In Progress
+833,2,12,Baju kurang wangi,In Progress
+834,32,7,Pakaian tertukar,Resolved
+835,30,21,Pakaian tertukar,In Progress
+836,11,7,Pakaian tertukar,In Progress
+837,3,6,Luntur,Open
+838,26,28,Agak lambat,Resolved
+839,19,9,Pakaian tertukar,In Progress
+840,3,8,Luntur,Resolved
+841,8,24,Pakaian tertukar,Resolved
+842,29,7,Luntur,Open
+843,4,19,Agak lambat,Open
+844,57,23,Agak lambat,Resolved
+845,58,10,Pakaian tertukar,In Progress
+846,58,28,Luntur,In Progress
+847,42,3,Pakaian tertukar,Open
+848,16,30,Luntur,Resolved
+849,17,2,Pakaian tertukar,Resolved
+850,10,24,Baju kurang wangi,In Progress
+851,6,14,Luntur,In Progress
+852,43,21,Baju kurang wangi,Open
+853,17,20,Agak lambat,Resolved
+854,8,12,Baju kurang wangi,Open
+855,43,26,Pakaian tertukar,Open
+856,13,8,Luntur,Resolved
+857,7,17,Baju kurang wangi,Resolved
+858,48,1,Luntur,In Progress
+859,48,4,Agak lambat,Resolved
+860,59,24,Agak lambat,Resolved
+861,39,24,Luntur,In Progress
+862,31,26,Agak lambat,In Progress
+863,49,11,Luntur,Resolved
+864,28,15,Luntur,Open
+865,51,30,Baju kurang wangi,Resolved
+866,58,6,Pakaian tertukar,Open
+867,32,2,Agak lambat,In Progress
+868,50,25,Pakaian tertukar,In Progress
+869,6,4,Pakaian tertukar,In Progress
+870,9,3,Luntur,Resolved
+871,57,27,Luntur,In Progress
+872,36,2,Pakaian tertukar,Open
+873,59,12,Pakaian tertukar,In Progress
+874,34,26,Pakaian tertukar,In Progress
+875,5,4,Baju kurang wangi,In Progress
+876,38,5,Luntur,Resolved
+877,20,4,Pakaian tertukar,Resolved
+878,53,16,Luntur,Resolved
+879,8,10,Pakaian tertukar,Resolved
+880,56,14,Luntur,Resolved
+881,18,28,Agak lambat,Resolved
+882,49,28,Pakaian tertukar,In Progress
+883,55,27,Baju kurang wangi,Resolved
+884,16,2,Pakaian tertukar,In Progress
+885,54,9,Pakaian tertukar,In Progress
+886,4,4,Luntur,In Progress
+887,32,6,Baju kurang wangi,In Progress
+888,22,23,Agak lambat,In Progress
+889,45,28,Baju kurang wangi,In Progress
+890,48,10,Luntur,In Progress
+891,43,12,Luntur,Open
+892,19,30,Baju kurang wangi,Resolved
+893,46,20,Baju kurang wangi,In Progress
+894,2,8,Luntur,Resolved
+895,60,3,Luntur,In Progress
+896,57,1,Pakaian tertukar,Resolved
+897,41,3,Baju kurang wangi,In Progress
+898,50,14,Luntur,Resolved
+899,3,13,Agak lambat,Resolved
+900,25,29,Baju kurang wangi,In Progress
+901,21,15,Baju kurang wangi,Open
+902,57,1,Luntur,Open
+903,50,13,Baju kurang wangi,Open
+904,45,8,Baju kurang wangi,In Progress
+905,15,5,Pakaian tertukar,Open
+906,23,29,Agak lambat,Resolved
+907,39,9,Luntur,Open
+908,5,16,Luntur,Open
+909,18,9,Agak lambat,Resolved
+910,5,17,Luntur,Open
+911,38,26,Pakaian tertukar,Resolved
+912,44,6,Pakaian tertukar,In Progress
+913,54,6,Baju kurang wangi,Open
+914,58,25,Luntur,In Progress
+915,35,28,Baju kurang wangi,In Progress
+916,36,8,Luntur,Open
+917,38,14,Luntur,In Progress
+918,53,21,Agak lambat,Resolved
+919,45,23,Agak lambat,Open
+920,40,23,Pakaian tertukar,Open
+921,13,18,Luntur,Open
+922,53,16,Luntur,In Progress
+923,34,23,Pakaian tertukar,Open
+924,60,15,Pakaian tertukar,In Progress
+925,1,1,Pakaian tertukar,Open
+926,31,5,Pakaian tertukar,In Progress
+927,44,19,Agak lambat,In Progress
+928,20,28,Luntur,Resolved
+929,58,26,Pakaian tertukar,In Progress
+930,53,1,Luntur,In Progress
+931,17,28,Agak lambat,In Progress
+932,31,16,Luntur,Open
+933,16,14,Agak lambat,Resolved
+934,43,6,Luntur,In Progress
+935,2,22,Agak lambat,In Progress
+936,12,7,Baju kurang wangi,Resolved
+937,55,15,Baju kurang wangi,In Progress
+938,51,2,Luntur,Open
+939,49,13,Pakaian tertukar,Open
+940,21,25,Pakaian tertukar,Resolved
+941,13,30,Baju kurang wangi,Open
+942,36,8,Luntur,Open
+943,39,15,Baju kurang wangi,In Progress
+944,33,11,Pakaian tertukar,In Progress
+945,27,28,Pakaian tertukar,Open
+946,1,11,Pakaian tertukar,Resolved
+947,1,7,Pakaian tertukar,Open
+948,26,15,Pakaian tertukar,Resolved
+949,24,4,Luntur,Open
+950,41,14,Pakaian tertukar,Resolved
+951,9,3,Luntur,Resolved
+952,44,22,Agak lambat,Open
+953,51,15,Pakaian tertukar,In Progress
+954,24,17,Baju kurang wangi,Open
+955,32,29,Baju kurang wangi,In Progress
+956,23,25,Agak lambat,Resolved
+957,52,7,Agak lambat,Resolved
+958,58,16,Agak lambat,In Progress
+959,5,25,Luntur,Resolved
+960,24,11,Baju kurang wangi,In Progress
+961,38,24,Baju kurang wangi,In Progress
+962,28,12,Luntur,Resolved
+963,20,2,Agak lambat,Resolved
+964,17,20,Pakaian tertukar,Open
+965,2,14,Luntur,Open
+966,28,16,Agak lambat,Resolved
+967,7,15,Luntur,In Progress
+968,60,1,Baju kurang wangi,Resolved
+969,15,12,Pakaian tertukar,Open
+970,8,9,Luntur,Open
+971,39,7,Luntur,Resolved
+972,42,30,Agak lambat,In Progress
+973,58,30,Pakaian tertukar,Resolved
+974,21,15,Baju kurang wangi,Resolved
+975,39,29,Pakaian tertukar,Open
+976,27,27,Agak lambat,Resolved
+977,39,5,Pakaian tertukar,Open
+978,40,7,Luntur,Open
+979,51,1,Agak lambat,In Progress
+980,21,21,Pakaian tertukar,In Progress
+981,7,23,Luntur,In Progress
+982,35,12,Pakaian tertukar,Resolved
+983,12,13,Pakaian tertukar,Open
+984,1,3,Baju kurang wangi,Resolved
+985,12,11,Luntur,In Progress
+986,59,18,Luntur,Open
+987,50,22,Luntur,Resolved
+988,31,3,Baju kurang wangi,In Progress
+989,40,11,Baju kurang wangi,In Progress
+990,56,18,Luntur,In Progress
+991,18,17,Agak lambat,Resolved
+992,19,15,Agak lambat,Resolved
+993,48,14,Baju kurang wangi,In Progress
+994,1,19,Agak lambat,Open
+995,39,26,Agak lambat,In Progress
+996,9,15,Luntur,Open
+997,46,6,Luntur,In Progress
+998,5,15,Agak lambat,Resolved
+999,44,21,Agak lambat,Resolved
+1000,24,14,Luntur,In Progress

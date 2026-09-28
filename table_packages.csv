@@ -1,0 +1,1001 @@
+package_id,service_id,package_name,price_per_unit,duration_hours
+1,1,Cuci Kering,25000,12
+2,1,Cuci Komplit,25000,12
+3,1,Setrika Saja,4000,12
+4,4,Cuci Komplit,7000,24
+5,2,Express 6 Jam,7000,12
+6,4,Cuci Jas,4000,6
+7,4,Express 6 Jam,15000,48
+8,3,Setrika Saja,25000,12
+9,4,Cuci Jas,7000,12
+10,4,Cuci Jas,4000,12
+11,4,Cuci Jas,25000,24
+12,3,Cuci Kering,7000,6
+13,2,Cuci Jas,15000,6
+14,3,Express 6 Jam,4000,6
+15,3,Express 6 Jam,25000,24
+16,1,Express 6 Jam,4000,48
+17,3,Cuci Komplit,25000,24
+18,2,Cuci Komplit,5000,24
+19,4,Cuci Komplit,7000,24
+20,1,Cuci Jas,4000,24
+21,4,Setrika Saja,4000,24
+22,4,Express 6 Jam,5000,12
+23,4,Express 6 Jam,5000,12
+24,2,Cuci Kering,4000,6
+25,3,Cuci Jas,4000,48
+26,1,Express 6 Jam,4000,6
+27,2,Express 6 Jam,5000,12
+28,1,Express 6 Jam,4000,48
+29,1,Express 6 Jam,5000,6
+30,3,Setrika Saja,4000,48
+31,1,Cuci Kering,7000,48
+32,1,Cuci Jas,15000,48
+33,2,Cuci Jas,7000,12
+34,1,Cuci Jas,7000,6
+35,4,Setrika Saja,5000,24
+36,2,Cuci Kering,5000,6
+37,4,Cuci Kering,5000,6
+38,3,Cuci Jas,25000,48
+39,2,Express 6 Jam,15000,48
+40,3,Express 6 Jam,15000,12
+41,3,Cuci Jas,4000,48
+42,2,Setrika Saja,25000,24
+43,2,Cuci Kering,25000,24
+44,2,Cuci Kering,4000,12
+45,1,Setrika Saja,4000,24
+46,2,Cuci Komplit,25000,48
+47,2,Setrika Saja,25000,48
+48,2,Cuci Kering,5000,24
+49,3,Cuci Komplit,25000,12
+50,1,Cuci Komplit,4000,24
+51,2,Cuci Komplit,7000,6
+52,1,Express 6 Jam,15000,24
+53,1,Express 6 Jam,25000,48
+54,3,Cuci Kering,15000,6
+55,2,Express 6 Jam,15000,6
+56,2,Cuci Kering,5000,48
+57,2,Cuci Kering,5000,6
+58,2,Express 6 Jam,15000,48
+59,1,Express 6 Jam,7000,12
+60,1,Setrika Saja,4000,48
+61,3,Cuci Kering,5000,48
+62,1,Cuci Komplit,15000,48
+63,1,Cuci Komplit,7000,24
+64,4,Express 6 Jam,5000,6
+65,4,Cuci Komplit,4000,48
+66,4,Cuci Jas,15000,6
+67,1,Express 6 Jam,25000,48
+68,2,Setrika Saja,5000,48
+69,1,Cuci Kering,4000,12
+70,4,Express 6 Jam,7000,6
+71,3,Cuci Kering,5000,24
+72,1,Cuci Jas,5000,6
+73,2,Express 6 Jam,25000,24
+74,1,Cuci Kering,15000,24
+75,3,Setrika Saja,7000,24
+76,3,Express 6 Jam,4000,12
+77,2,Cuci Jas,7000,24
+78,4,Cuci Jas,7000,48
+79,2,Cuci Kering,25000,12
+80,4,Cuci Komplit,25000,24
+81,1,Setrika Saja,25000,12
+82,2,Setrika Saja,7000,6
+83,3,Setrika Saja,5000,12
+84,3,Cuci Kering,25000,12
+85,3,Express 6 Jam,25000,12
+86,2,Cuci Komplit,5000,24
+87,4,Cuci Komplit,7000,24
+88,2,Setrika Saja,4000,24
+89,4,Express 6 Jam,5000,48
+90,3,Cuci Kering,5000,12
+91,4,Cuci Kering,25000,12
+92,2,Cuci Komplit,7000,48
+93,4,Setrika Saja,5000,12
+94,1,Cuci Komplit,7000,12
+95,4,Cuci Jas,4000,12
+96,1,Setrika Saja,5000,48
+97,4,Setrika Saja,5000,12
+98,1,Express 6 Jam,4000,6
+99,4,Cuci Kering,15000,12
+100,1,Setrika Saja,7000,24
+101,4,Express 6 Jam,7000,12
+102,3,Cuci Jas,25000,12
+103,3,Cuci Kering,7000,24
+104,1,Cuci Kering,15000,6
+105,1,Cuci Komplit,15000,12
+106,3,Cuci Kering,4000,6
+107,2,Express 6 Jam,5000,6
+108,3,Setrika Saja,4000,6
+109,1,Express 6 Jam,4000,24
+110,3,Setrika Saja,4000,48
+111,1,Cuci Jas,5000,48
+112,4,Cuci Kering,25000,48
+113,3,Cuci Kering,5000,48
+114,3,Cuci Komplit,7000,24
+115,2,Setrika Saja,25000,24
+116,4,Cuci Komplit,5000,24
+117,2,Setrika Saja,7000,24
+118,4,Express 6 Jam,7000,24
+119,3,Cuci Kering,7000,12
+120,4,Cuci Jas,5000,24
+121,4,Cuci Kering,25000,48
+122,2,Setrika Saja,15000,12
+123,2,Setrika Saja,25000,24
+124,4,Cuci Kering,5000,12
+125,1,Express 6 Jam,7000,6
+126,1,Express 6 Jam,7000,24
+127,2,Cuci Kering,4000,12
+128,2,Cuci Komplit,4000,6
+129,2,Cuci Kering,15000,48
+130,4,Cuci Komplit,15000,6
+131,4,Cuci Komplit,7000,24
+132,2,Cuci Kering,15000,24
+133,2,Cuci Komplit,25000,48
+134,3,Express 6 Jam,5000,24
+135,2,Cuci Kering,7000,12
+136,2,Cuci Komplit,25000,6
+137,1,Cuci Komplit,7000,48
+138,1,Setrika Saja,25000,48
+139,4,Cuci Kering,5000,48
+140,3,Express 6 Jam,5000,12
+141,4,Cuci Kering,4000,48
+142,1,Cuci Kering,15000,48
+143,2,Cuci Kering,4000,48
+144,2,Setrika Saja,7000,48
+145,1,Setrika Saja,25000,6
+146,1,Cuci Komplit,4000,48
+147,4,Setrika Saja,7000,24
+148,2,Cuci Komplit,5000,48
+149,2,Cuci Kering,7000,6
+150,1,Express 6 Jam,4000,6
+151,2,Cuci Jas,25000,24
+152,3,Cuci Komplit,7000,24
+153,2,Cuci Jas,5000,24
+154,4,Cuci Jas,5000,6
+155,2,Cuci Kering,15000,6
+156,3,Setrika Saja,5000,48
+157,4,Cuci Kering,25000,24
+158,4,Cuci Jas,5000,48
+159,4,Cuci Komplit,5000,6
+160,1,Cuci Kering,15000,48
+161,3,Cuci Komplit,25000,12
+162,1,Setrika Saja,5000,48
+163,1,Setrika Saja,15000,48
+164,1,Setrika Saja,5000,48
+165,4,Setrika Saja,5000,48
+166,3,Express 6 Jam,25000,48
+167,2,Cuci Kering,25000,12
+168,3,Express 6 Jam,7000,24
+169,4,Express 6 Jam,25000,24
+170,3,Setrika Saja,25000,48
+171,3,Setrika Saja,7000,12
+172,1,Cuci Komplit,25000,6
+173,1,Express 6 Jam,15000,12
+174,1,Setrika Saja,5000,12
+175,1,Cuci Komplit,7000,6
+176,4,Cuci Kering,7000,48
+177,4,Express 6 Jam,5000,12
+178,1,Cuci Jas,7000,48
+179,4,Setrika Saja,7000,24
+180,1,Cuci Komplit,5000,12
+181,3,Cuci Kering,5000,12
+182,1,Express 6 Jam,4000,48
+183,1,Express 6 Jam,25000,48
+184,4,Express 6 Jam,5000,48
+185,1,Cuci Komplit,7000,48
+186,2,Cuci Komplit,15000,24
+187,4,Setrika Saja,25000,6
+188,3,Cuci Kering,5000,24
+189,2,Cuci Jas,7000,48
+190,1,Express 6 Jam,25000,24
+191,4,Cuci Komplit,7000,48
+192,4,Cuci Kering,25000,24
+193,4,Setrika Saja,15000,48
+194,4,Cuci Jas,4000,48
+195,4,Cuci Komplit,4000,12
+196,2,Setrika Saja,7000,24
+197,2,Express 6 Jam,7000,48
+198,4,Cuci Komplit,15000,6
+199,3,Cuci Kering,4000,48
+200,1,Express 6 Jam,4000,6
+201,2,Cuci Jas,7000,24
+202,4,Cuci Kering,7000,6
+203,4,Cuci Komplit,15000,48
+204,4,Express 6 Jam,5000,48
+205,4,Express 6 Jam,5000,24
+206,4,Setrika Saja,15000,6
+207,4,Cuci Kering,5000,24
+208,1,Cuci Jas,15000,24
+209,1,Setrika Saja,4000,12
+210,3,Setrika Saja,25000,12
+211,3,Cuci Komplit,4000,12
+212,4,Cuci Komplit,7000,6
+213,1,Cuci Jas,25000,48
+214,2,Cuci Komplit,7000,12
+215,3,Setrika Saja,25000,6
+216,2,Cuci Jas,7000,6
+217,1,Cuci Komplit,15000,6
+218,4,Cuci Kering,25000,12
+219,2,Cuci Komplit,5000,48
+220,1,Cuci Kering,7000,6
+221,3,Cuci Komplit,5000,48
+222,3,Express 6 Jam,4000,6
+223,2,Cuci Komplit,4000,48
+224,4,Express 6 Jam,25000,48
+225,4,Express 6 Jam,5000,48
+226,3,Cuci Kering,7000,6
+227,4,Cuci Komplit,4000,24
+228,1,Express 6 Jam,25000,6
+229,2,Setrika Saja,15000,12
+230,2,Cuci Kering,15000,12
+231,1,Cuci Kering,25000,24
+232,3,Setrika Saja,15000,6
+233,1,Cuci Kering,25000,48
+234,3,Cuci Kering,15000,12
+235,4,Setrika Saja,4000,6
+236,1,Cuci Komplit,5000,12
+237,2,Cuci Komplit,7000,24
+238,3,Cuci Komplit,15000,6
+239,1,Cuci Komplit,4000,6
+240,3,Cuci Jas,7000,6
+241,1,Express 6 Jam,4000,6
+242,4,Cuci Kering,7000,12
+243,2,Express 6 Jam,25000,6
+244,4,Setrika Saja,5000,48
+245,4,Cuci Komplit,4000,24
+246,3,Cuci Komplit,5000,24
+247,2,Cuci Komplit,25000,12
+248,1,Cuci Komplit,7000,12
+249,3,Cuci Komplit,4000,12
+250,4,Setrika Saja,5000,24
+251,1,Cuci Jas,5000,6
+252,1,Express 6 Jam,25000,12
+253,2,Cuci Komplit,7000,24
+254,1,Setrika Saja,7000,24
+255,2,Cuci Kering,15000,24
+256,4,Express 6 Jam,7000,6
+257,2,Setrika Saja,15000,48
+258,3,Setrika Saja,25000,12
+259,2,Express 6 Jam,15000,48
+260,1,Cuci Jas,5000,48
+261,3,Express 6 Jam,5000,6
+262,4,Cuci Jas,25000,6
+263,3,Cuci Jas,7000,24
+264,1,Cuci Kering,7000,24
+265,4,Cuci Komplit,4000,6
+266,3,Setrika Saja,4000,48
+267,1,Cuci Jas,4000,24
+268,3,Cuci Kering,4000,12
+269,2,Setrika Saja,4000,48
+270,4,Cuci Jas,15000,48
+271,1,Cuci Komplit,7000,6
+272,2,Express 6 Jam,5000,24
+273,4,Setrika Saja,5000,48
+274,3,Express 6 Jam,15000,12
+275,4,Cuci Komplit,4000,48
+276,4,Setrika Saja,25000,24
+277,3,Setrika Saja,4000,24
+278,4,Cuci Kering,4000,48
+279,4,Setrika Saja,7000,48
+280,3,Cuci Komplit,15000,6
+281,4,Setrika Saja,5000,24
+282,1,Cuci Jas,4000,24
+283,1,Setrika Saja,4000,12
+284,1,Cuci Kering,5000,24
+285,1,Cuci Kering,4000,12
+286,3,Cuci Komplit,25000,12
+287,3,Setrika Saja,4000,48
+288,4,Setrika Saja,15000,24
+289,2,Cuci Jas,5000,12
+290,3,Cuci Jas,15000,6
+291,4,Setrika Saja,15000,6
+292,1,Cuci Komplit,7000,24
+293,3,Express 6 Jam,25000,48
+294,1,Express 6 Jam,25000,24
+295,3,Cuci Jas,7000,24
+296,2,Setrika Saja,7000,6
+297,1,Cuci Jas,4000,24
+298,2,Cuci Jas,25000,24
+299,3,Express 6 Jam,25000,48
+300,3,Cuci Jas,7000,24
+301,2,Setrika Saja,5000,6
+302,1,Setrika Saja,5000,24
+303,1,Cuci Jas,4000,48
+304,2,Cuci Jas,15000,48
+305,4,Cuci Komplit,25000,48
+306,1,Express 6 Jam,4000,48
+307,3,Cuci Jas,25000,6
+308,3,Cuci Komplit,7000,24
+309,3,Cuci Jas,15000,24
+310,3,Cuci Komplit,7000,48
+311,2,Cuci Komplit,5000,48
+312,3,Setrika Saja,7000,12
+313,1,Cuci Kering,25000,24
+314,4,Setrika Saja,15000,12
+315,2,Cuci Komplit,4000,12
+316,4,Cuci Kering,25000,6
+317,4,Cuci Komplit,15000,24
+318,2,Cuci Kering,7000,12
+319,4,Express 6 Jam,7000,6
+320,3,Express 6 Jam,7000,24
+321,3,Cuci Komplit,4000,12
+322,1,Cuci Jas,7000,24
+323,3,Setrika Saja,5000,24
+324,3,Cuci Komplit,4000,6
+325,1,Cuci Kering,5000,12
+326,4,Cuci Jas,7000,24
+327,1,Express 6 Jam,15000,6
+328,4,Express 6 Jam,5000,48
+329,4,Express 6 Jam,4000,48
+330,2,Express 6 Jam,5000,6
+331,2,Cuci Kering,5000,48
+332,4,Setrika Saja,4000,48
+333,3,Cuci Jas,15000,24
+334,1,Cuci Komplit,7000,24
+335,3,Cuci Jas,7000,24
+336,1,Express 6 Jam,7000,24
+337,2,Express 6 Jam,5000,12
+338,2,Cuci Kering,7000,48
+339,1,Cuci Jas,5000,24
+340,4,Express 6 Jam,5000,12
+341,1,Express 6 Jam,15000,12
+342,4,Setrika Saja,25000,48
+343,2,Setrika Saja,5000,24
+344,4,Cuci Komplit,7000,6
+345,4,Cuci Kering,15000,24
+346,4,Setrika Saja,4000,48
+347,4,Setrika Saja,15000,24
+348,1,Cuci Jas,25000,24
+349,2,Cuci Komplit,7000,12
+350,4,Cuci Komplit,25000,6
+351,1,Setrika Saja,15000,48
+352,3,Setrika Saja,15000,6
+353,1,Cuci Komplit,25000,24
+354,4,Express 6 Jam,25000,48
+355,4,Cuci Kering,5000,12
+356,3,Cuci Komplit,5000,12
+357,2,Express 6 Jam,7000,12
+358,1,Setrika Saja,7000,48
+359,4,Cuci Jas,15000,24
+360,3,Cuci Jas,5000,6
+361,3,Cuci Jas,5000,6
+362,1,Cuci Kering,5000,24
+363,4,Express 6 Jam,15000,48
+364,4,Cuci Jas,7000,6
+365,2,Cuci Komplit,4000,24
+366,4,Cuci Komplit,4000,6
+367,2,Cuci Komplit,25000,48
+368,2,Setrika Saja,4000,48
+369,2,Cuci Jas,7000,48
+370,2,Cuci Kering,4000,12
+371,1,Cuci Kering,25000,48
+372,4,Cuci Kering,25000,6
+373,1,Cuci Kering,15000,6
+374,3,Cuci Kering,15000,12
+375,1,Cuci Komplit,7000,48
+376,1,Setrika Saja,15000,12
+377,2,Setrika Saja,15000,12
+378,1,Express 6 Jam,25000,24
+379,2,Express 6 Jam,25000,48
+380,1,Setrika Saja,15000,48
+381,2,Setrika Saja,7000,48
+382,3,Cuci Jas,7000,48
+383,4,Express 6 Jam,25000,48
+384,4,Express 6 Jam,4000,24
+385,1,Cuci Jas,25000,24
+386,4,Cuci Kering,7000,48
+387,4,Cuci Kering,25000,48
+388,1,Express 6 Jam,4000,12
+389,2,Cuci Kering,7000,12
+390,1,Cuci Komplit,7000,12
+391,4,Cuci Komplit,15000,24
+392,3,Setrika Saja,7000,12
+393,2,Cuci Jas,7000,48
+394,1,Cuci Komplit,4000,48
+395,2,Setrika Saja,4000,12
+396,3,Cuci Kering,7000,48
+397,3,Cuci Kering,5000,6
+398,2,Cuci Komplit,7000,12
+399,2,Setrika Saja,7000,24
+400,4,Express 6 Jam,25000,6
+401,1,Cuci Komplit,15000,24
+402,3,Cuci Komplit,15000,48
+403,1,Cuci Komplit,15000,12
+404,1,Cuci Jas,15000,12
+405,4,Setrika Saja,15000,6
+406,3,Cuci Jas,25000,24
+407,1,Cuci Jas,25000,24
+408,3,Express 6 Jam,4000,6
+409,1,Setrika Saja,7000,6
+410,2,Express 6 Jam,25000,6
+411,4,Cuci Jas,25000,12
+412,2,Cuci Komplit,15000,48
+413,1,Express 6 Jam,25000,48
+414,3,Cuci Jas,4000,12
+415,4,Cuci Jas,5000,12
+416,4,Cuci Jas,15000,24
+417,2,Express 6 Jam,5000,12
+418,1,Cuci Kering,15000,6
+419,4,Express 6 Jam,7000,24
+420,3,Cuci Komplit,4000,48
+421,3,Cuci Komplit,25000,24
+422,1,Cuci Kering,4000,6
+423,4,Cuci Kering,15000,6
+424,4,Cuci Kering,15000,48
+425,4,Cuci Jas,4000,48
+426,4,Setrika Saja,25000,6
+427,4,Cuci Jas,7000,12
+428,1,Cuci Jas,7000,6
+429,1,Cuci Jas,15000,48
+430,2,Setrika Saja,4000,12
+431,3,Cuci Kering,5000,12
+432,4,Cuci Kering,7000,6
+433,4,Cuci Komplit,5000,48
+434,3,Express 6 Jam,7000,24
+435,3,Cuci Jas,7000,24
+436,2,Cuci Jas,7000,12
+437,2,Express 6 Jam,4000,48
+438,3,Cuci Jas,7000,24
+439,1,Cuci Kering,4000,6
+440,2,Cuci Kering,4000,12
+441,2,Cuci Kering,25000,48
+442,1,Cuci Kering,4000,24
+443,4,Cuci Jas,7000,24
+444,1,Express 6 Jam,15000,24
+445,1,Express 6 Jam,7000,24
+446,3,Cuci Kering,15000,12
+447,2,Express 6 Jam,5000,24
+448,4,Cuci Kering,4000,24
+449,1,Cuci Jas,4000,12
+450,3,Setrika Saja,25000,24
+451,2,Cuci Jas,25000,12
+452,3,Cuci Kering,4000,12
+453,3,Express 6 Jam,15000,24
+454,4,Cuci Jas,7000,48
+455,2,Cuci Komplit,15000,24
+456,2,Express 6 Jam,4000,12
+457,2,Express 6 Jam,5000,6
+458,1,Express 6 Jam,4000,48
+459,4,Cuci Jas,15000,24
+460,1,Cuci Kering,15000,6
+461,4,Cuci Komplit,25000,48
+462,2,Express 6 Jam,4000,48
+463,1,Setrika Saja,25000,48
+464,2,Cuci Jas,25000,24
+465,4,Setrika Saja,15000,6
+466,1,Cuci Kering,15000,6
+467,3,Express 6 Jam,7000,12
+468,2,Cuci Kering,5000,6
+469,4,Setrika Saja,5000,24
+470,3,Setrika Saja,7000,6
+471,1,Setrika Saja,25000,48
+472,1,Cuci Kering,5000,12
+473,1,Cuci Jas,7000,48
+474,2,Cuci Kering,15000,6
+475,4,Express 6 Jam,25000,48
+476,1,Cuci Jas,25000,48
+477,2,Setrika Saja,25000,24
+478,3,Setrika Saja,15000,24
+479,4,Express 6 Jam,4000,6
+480,3,Express 6 Jam,15000,24
+481,4,Cuci Komplit,25000,6
+482,2,Cuci Komplit,7000,6
+483,2,Cuci Komplit,7000,48
+484,1,Cuci Jas,7000,24
+485,1,Setrika Saja,5000,12
+486,2,Express 6 Jam,7000,48
+487,2,Cuci Kering,25000,48
+488,4,Cuci Kering,7000,24
+489,4,Cuci Kering,5000,12
+490,2,Cuci Jas,4000,12
+491,3,Cuci Kering,15000,24
+492,3,Express 6 Jam,5000,24
+493,2,Cuci Komplit,7000,12
+494,3,Cuci Jas,15000,6
+495,1,Express 6 Jam,7000,12
+496,2,Express 6 Jam,25000,6
+497,4,Cuci Kering,25000,48
+498,2,Setrika Saja,4000,24
+499,1,Cuci Jas,5000,24
+500,1,Setrika Saja,15000,24
+501,3,Cuci Komplit,5000,24
+502,4,Cuci Kering,25000,6
+503,2,Setrika Saja,4000,6
+504,4,Setrika Saja,5000,24
+505,2,Cuci Komplit,4000,24
+506,3,Cuci Kering,15000,24
+507,4,Cuci Komplit,5000,24
+508,1,Cuci Kering,7000,6
+509,2,Cuci Komplit,25000,6
+510,4,Cuci Komplit,7000,48
+511,3,Cuci Komplit,7000,24
+512,2,Cuci Kering,7000,6
+513,3,Cuci Kering,5000,12
+514,4,Setrika Saja,7000,12
+515,3,Setrika Saja,25000,24
+516,2,Cuci Komplit,4000,6
+517,2,Cuci Jas,15000,6
+518,1,Cuci Jas,5000,24
+519,1,Cuci Kering,7000,24
+520,3,Setrika Saja,4000,12
+521,4,Cuci Komplit,7000,6
+522,4,Cuci Jas,7000,48
+523,2,Express 6 Jam,25000,12
+524,3,Express 6 Jam,4000,6
+525,2,Setrika Saja,7000,12
+526,1,Setrika Saja,5000,12
+527,4,Setrika Saja,4000,48
+528,4,Cuci Komplit,7000,12
+529,2,Setrika Saja,7000,6
+530,4,Cuci Komplit,5000,48
+531,4,Cuci Kering,5000,24
+532,2,Cuci Kering,7000,12
+533,4,Cuci Kering,15000,48
+534,2,Setrika Saja,4000,12
+535,2,Cuci Kering,15000,12
+536,2,Cuci Komplit,4000,12
+537,1,Cuci Jas,5000,24
+538,2,Express 6 Jam,5000,24
+539,4,Setrika Saja,4000,6
+540,1,Setrika Saja,4000,24
+541,4,Cuci Komplit,15000,48
+542,1,Cuci Komplit,25000,48
+543,4,Express 6 Jam,25000,48
+544,2,Cuci Komplit,15000,12
+545,3,Cuci Jas,25000,6
+546,1,Cuci Jas,15000,24
+547,2,Express 6 Jam,15000,48
+548,1,Cuci Komplit,7000,24
+549,4,Cuci Jas,25000,24
+550,4,Cuci Kering,15000,12
+551,3,Cuci Kering,15000,12
+552,3,Setrika Saja,15000,6
+553,3,Cuci Kering,4000,24
+554,4,Setrika Saja,4000,48
+555,3,Cuci Komplit,15000,6
+556,4,Cuci Komplit,4000,12
+557,4,Cuci Jas,5000,48
+558,3,Cuci Jas,25000,6
+559,4,Cuci Komplit,25000,12
+560,3,Cuci Jas,4000,6
+561,4,Express 6 Jam,4000,6
+562,3,Cuci Jas,15000,48
+563,4,Setrika Saja,7000,6
+564,3,Cuci Kering,5000,12
+565,3,Express 6 Jam,25000,12
+566,3,Cuci Kering,4000,6
+567,2,Cuci Jas,4000,12
+568,2,Setrika Saja,25000,24
+569,1,Cuci Komplit,25000,12
+570,2,Cuci Kering,25000,24
+571,3,Cuci Kering,4000,6
+572,4,Express 6 Jam,5000,48
+573,1,Express 6 Jam,5000,6
+574,4,Cuci Kering,25000,24
+575,2,Cuci Jas,5000,6
+576,4,Cuci Jas,25000,48
+577,2,Cuci Komplit,15000,12
+578,3,Cuci Komplit,7000,24
+579,2,Cuci Komplit,4000,6
+580,3,Setrika Saja,15000,12
+581,4,Setrika Saja,5000,6
+582,4,Cuci Kering,7000,24
+583,1,Cuci Kering,4000,6
+584,2,Cuci Kering,5000,24
+585,4,Cuci Kering,15000,6
+586,4,Cuci Kering,4000,48
+587,2,Cuci Komplit,15000,12
+588,1,Express 6 Jam,7000,48
+589,4,Cuci Jas,25000,24
+590,2,Cuci Jas,5000,48
+591,1,Cuci Jas,7000,6
+592,1,Cuci Komplit,15000,12
+593,2,Setrika Saja,7000,48
+594,3,Setrika Saja,25000,12
+595,3,Setrika Saja,5000,6
+596,1,Setrika Saja,25000,6
+597,3,Setrika Saja,5000,12
+598,2,Cuci Komplit,7000,48
+599,4,Cuci Komplit,5000,48
+600,1,Setrika Saja,5000,12
+601,4,Cuci Kering,5000,24
+602,1,Cuci Jas,4000,48
+603,1,Setrika Saja,7000,6
+604,4,Setrika Saja,7000,48
+605,3,Setrika Saja,4000,12
+606,2,Setrika Saja,15000,6
+607,4,Cuci Kering,7000,24
+608,3,Cuci Jas,15000,12
+609,1,Cuci Kering,4000,24
+610,1,Cuci Kering,5000,6
+611,1,Cuci Komplit,4000,24
+612,2,Cuci Komplit,5000,12
+613,4,Cuci Kering,15000,12
+614,3,Cuci Kering,4000,24
+615,3,Cuci Kering,15000,12
+616,3,Cuci Kering,25000,12
+617,1,Express 6 Jam,5000,6
+618,1,Cuci Kering,25000,24
+619,1,Cuci Kering,25000,48
+620,2,Express 6 Jam,7000,12
+621,4,Setrika Saja,4000,6
+622,4,Cuci Komplit,15000,6
+623,1,Express 6 Jam,15000,48
+624,3,Setrika Saja,25000,6
+625,1,Cuci Jas,15000,6
+626,1,Cuci Kering,5000,24
+627,1,Express 6 Jam,25000,6
+628,4,Express 6 Jam,15000,48
+629,3,Express 6 Jam,7000,6
+630,3,Cuci Kering,5000,24
+631,4,Setrika Saja,5000,24
+632,1,Cuci Jas,5000,6
+633,1,Express 6 Jam,25000,12
+634,3,Cuci Jas,15000,6
+635,4,Setrika Saja,5000,6
+636,3,Cuci Kering,5000,48
+637,4,Cuci Kering,25000,12
+638,4,Setrika Saja,15000,6
+639,4,Cuci Kering,5000,48
+640,3,Cuci Jas,7000,6
+641,1,Cuci Komplit,5000,6
+642,2,Cuci Komplit,25000,48
+643,3,Express 6 Jam,15000,6
+644,2,Setrika Saja,4000,24
+645,3,Setrika Saja,25000,48
+646,2,Cuci Komplit,4000,48
+647,1,Setrika Saja,4000,12
+648,2,Cuci Komplit,7000,24
+649,4,Express 6 Jam,25000,6
+650,2,Setrika Saja,7000,6
+651,3,Cuci Komplit,25000,6
+652,3,Setrika Saja,25000,12
+653,1,Setrika Saja,25000,48
+654,2,Cuci Jas,7000,12
+655,3,Cuci Kering,5000,12
+656,4,Cuci Kering,4000,48
+657,1,Cuci Jas,15000,24
+658,1,Cuci Komplit,15000,12
+659,3,Setrika Saja,15000,24
+660,1,Cuci Jas,4000,12
+661,3,Express 6 Jam,4000,24
+662,4,Setrika Saja,5000,6
+663,2,Express 6 Jam,15000,6
+664,2,Cuci Jas,5000,6
+665,4,Cuci Komplit,5000,24
+666,2,Setrika Saja,5000,48
+667,4,Setrika Saja,4000,48
+668,4,Setrika Saja,5000,48
+669,3,Setrika Saja,15000,12
+670,2,Express 6 Jam,4000,48
+671,2,Cuci Kering,4000,24
+672,3,Cuci Kering,25000,6
+673,2,Cuci Jas,15000,6
+674,2,Cuci Komplit,5000,6
+675,4,Cuci Kering,4000,48
+676,3,Express 6 Jam,4000,12
+677,2,Setrika Saja,15000,48
+678,1,Cuci Kering,7000,24
+679,2,Setrika Saja,15000,12
+680,2,Cuci Jas,4000,6
+681,3,Cuci Kering,7000,24
+682,3,Setrika Saja,7000,12
+683,2,Cuci Komplit,15000,12
+684,1,Cuci Komplit,7000,48
+685,4,Cuci Kering,15000,6
+686,1,Cuci Jas,25000,48
+687,2,Cuci Kering,5000,12
+688,1,Setrika Saja,15000,6
+689,3,Express 6 Jam,15000,6
+690,4,Cuci Komplit,15000,48
+691,3,Setrika Saja,25000,24
+692,4,Cuci Komplit,15000,48
+693,3,Express 6 Jam,4000,12
+694,3,Express 6 Jam,15000,24
+695,1,Express 6 Jam,5000,48
+696,4,Cuci Komplit,5000,12
+697,4,Express 6 Jam,4000,48
+698,2,Express 6 Jam,15000,48
+699,2,Cuci Jas,4000,6
+700,3,Setrika Saja,4000,6
+701,1,Cuci Kering,15000,48
+702,1,Express 6 Jam,15000,48
+703,1,Setrika Saja,15000,6
+704,2,Cuci Jas,7000,48
+705,2,Cuci Kering,4000,6
+706,4,Cuci Kering,15000,24
+707,2,Cuci Jas,25000,12
+708,4,Cuci Komplit,25000,48
+709,2,Cuci Jas,7000,6
+710,4,Cuci Jas,5000,6
+711,1,Cuci Komplit,4000,12
+712,4,Cuci Komplit,4000,6
+713,2,Setrika Saja,7000,48
+714,1,Cuci Kering,5000,24
+715,3,Setrika Saja,25000,24
+716,4,Setrika Saja,25000,48
+717,3,Express 6 Jam,7000,48
+718,3,Express 6 Jam,7000,6
+719,1,Setrika Saja,5000,6
+720,4,Cuci Kering,15000,6
+721,2,Cuci Jas,25000,48
+722,2,Cuci Kering,7000,48
+723,1,Cuci Jas,25000,48
+724,4,Cuci Komplit,5000,12
+725,3,Cuci Kering,7000,24
+726,4,Cuci Kering,7000,6
+727,3,Setrika Saja,7000,6
+728,2,Cuci Komplit,7000,12
+729,1,Setrika Saja,7000,6
+730,3,Cuci Jas,7000,48
+731,4,Cuci Komplit,7000,24
+732,2,Cuci Komplit,15000,12
+733,1,Cuci Kering,7000,24
+734,3,Cuci Jas,5000,6
+735,2,Cuci Komplit,15000,48
+736,4,Express 6 Jam,5000,12
+737,4,Cuci Jas,15000,12
+738,2,Express 6 Jam,25000,12
+739,3,Cuci Jas,4000,6
+740,2,Cuci Jas,25000,24
+741,2,Cuci Komplit,25000,6
+742,1,Express 6 Jam,7000,6
+743,2,Express 6 Jam,4000,12
+744,1,Cuci Jas,4000,6
+745,1,Setrika Saja,4000,48
+746,3,Cuci Jas,5000,12
+747,2,Express 6 Jam,15000,48
+748,4,Cuci Kering,25000,48
+749,1,Setrika Saja,7000,6
+750,3,Cuci Komplit,7000,24
+751,2,Cuci Komplit,15000,6
+752,3,Cuci Komplit,4000,24
+753,3,Setrika Saja,7000,24
+754,1,Express 6 Jam,4000,6
+755,2,Setrika Saja,15000,48
+756,1,Express 6 Jam,5000,6
+757,4,Setrika Saja,15000,12
+758,1,Cuci Kering,15000,6
+759,2,Cuci Jas,25000,12
+760,2,Setrika Saja,4000,12
+761,4,Cuci Jas,25000,12
+762,1,Setrika Saja,4000,24
+763,2,Cuci Komplit,5000,24
+764,1,Setrika Saja,15000,48
+765,3,Setrika Saja,25000,6
+766,1,Cuci Kering,5000,6
+767,1,Cuci Kering,7000,6
+768,1,Setrika Saja,4000,24
+769,2,Cuci Kering,7000,48
+770,3,Express 6 Jam,25000,24
+771,2,Express 6 Jam,15000,12
+772,1,Cuci Jas,25000,48
+773,2,Cuci Komplit,7000,24
+774,4,Setrika Saja,5000,6
+775,4,Cuci Kering,7000,12
+776,2,Cuci Jas,5000,24
+777,4,Setrika Saja,7000,24
+778,4,Cuci Komplit,5000,24
+779,1,Cuci Jas,5000,12
+780,2,Setrika Saja,25000,48
+781,2,Cuci Kering,4000,48
+782,3,Cuci Komplit,7000,12
+783,3,Express 6 Jam,7000,6
+784,1,Setrika Saja,7000,24
+785,4,Express 6 Jam,15000,24
+786,2,Cuci Jas,15000,6
+787,4,Setrika Saja,25000,6
+788,4,Cuci Kering,7000,6
+789,2,Setrika Saja,4000,24
+790,2,Cuci Komplit,25000,48
+791,2,Cuci Kering,4000,24
+792,3,Cuci Kering,5000,48
+793,2,Cuci Jas,15000,24
+794,4,Cuci Komplit,15000,48
+795,4,Cuci Jas,15000,48
+796,3,Cuci Kering,7000,6
+797,3,Express 6 Jam,25000,24
+798,3,Setrika Saja,5000,24
+799,3,Cuci Jas,4000,6
+800,1,Setrika Saja,15000,6
+801,3,Express 6 Jam,4000,12
+802,3,Express 6 Jam,15000,6
+803,3,Setrika Saja,7000,12
+804,3,Express 6 Jam,4000,6
+805,2,Express 6 Jam,7000,48
+806,2,Setrika Saja,5000,12
+807,2,Express 6 Jam,5000,12
+808,4,Cuci Kering,15000,24
+809,3,Express 6 Jam,7000,12
+810,4,Cuci Jas,5000,6
+811,3,Cuci Kering,4000,12
+812,4,Express 6 Jam,25000,24
+813,4,Cuci Jas,7000,24
+814,1,Cuci Jas,5000,6
+815,4,Cuci Komplit,15000,24
+816,3,Cuci Kering,4000,6
+817,4,Cuci Komplit,15000,12
+818,1,Cuci Kering,25000,24
+819,2,Cuci Jas,4000,24
+820,3,Cuci Jas,5000,12
+821,3,Cuci Kering,7000,48
+822,3,Cuci Jas,4000,12
+823,1,Cuci Jas,25000,12
+824,1,Cuci Komplit,4000,6
+825,1,Setrika Saja,5000,12
+826,2,Setrika Saja,5000,12
+827,4,Cuci Jas,25000,12
+828,2,Cuci Komplit,4000,6
+829,1,Express 6 Jam,4000,24
+830,3,Express 6 Jam,4000,6
+831,3,Setrika Saja,25000,6
+832,3,Express 6 Jam,7000,48
+833,2,Cuci Jas,15000,6
+834,2,Cuci Jas,5000,48
+835,1,Cuci Komplit,15000,48
+836,4,Express 6 Jam,4000,6
+837,4,Setrika Saja,15000,6
+838,4,Cuci Komplit,7000,6
+839,4,Express 6 Jam,5000,6
+840,1,Cuci Jas,7000,6
+841,2,Setrika Saja,15000,48
+842,1,Cuci Kering,15000,24
+843,2,Cuci Kering,15000,6
+844,2,Express 6 Jam,4000,6
+845,4,Cuci Jas,15000,24
+846,4,Cuci Kering,5000,24
+847,4,Cuci Kering,5000,24
+848,3,Cuci Kering,25000,48
+849,3,Express 6 Jam,4000,48
+850,2,Express 6 Jam,15000,6
+851,1,Cuci Jas,4000,12
+852,2,Express 6 Jam,5000,48
+853,3,Cuci Komplit,5000,24
+854,2,Setrika Saja,7000,48
+855,2,Cuci Kering,15000,24
+856,1,Cuci Komplit,5000,6
+857,1,Cuci Komplit,4000,12
+858,3,Cuci Jas,25000,48
+859,1,Express 6 Jam,25000,24
+860,3,Cuci Jas,15000,24
+861,1,Setrika Saja,4000,12
+862,3,Express 6 Jam,5000,6
+863,3,Cuci Jas,4000,12
+864,4,Cuci Kering,15000,48
+865,2,Express 6 Jam,4000,48
+866,4,Express 6 Jam,5000,48
+867,3,Cuci Jas,5000,12
+868,4,Cuci Komplit,15000,48
+869,4,Cuci Kering,25000,12
+870,1,Setrika Saja,7000,24
+871,4,Express 6 Jam,4000,12
+872,3,Setrika Saja,15000,24
+873,4,Cuci Kering,4000,24
+874,1,Cuci Jas,4000,12
+875,1,Setrika Saja,7000,48
+876,4,Cuci Komplit,15000,24
+877,3,Cuci Komplit,5000,48
+878,2,Setrika Saja,25000,24
+879,4,Setrika Saja,7000,48
+880,1,Cuci Kering,25000,6
+881,3,Express 6 Jam,4000,6
+882,1,Express 6 Jam,5000,24
+883,3,Cuci Komplit,15000,6
+884,3,Setrika Saja,25000,12
+885,3,Cuci Kering,7000,48
+886,2,Setrika Saja,15000,48
+887,1,Cuci Jas,4000,12
+888,2,Cuci Komplit,7000,6
+889,2,Cuci Kering,7000,6
+890,2,Cuci Kering,7000,24
+891,1,Express 6 Jam,15000,12
+892,4,Cuci Jas,4000,24
+893,1,Cuci Jas,7000,12
+894,3,Cuci Jas,25000,12
+895,2,Setrika Saja,15000,6
+896,3,Setrika Saja,15000,12
+897,2,Setrika Saja,4000,12
+898,1,Setrika Saja,7000,6
+899,3,Cuci Komplit,25000,6
+900,3,Express 6 Jam,5000,48
+901,1,Express 6 Jam,4000,24
+902,3,Setrika Saja,5000,6
+903,3,Express 6 Jam,7000,48
+904,4,Setrika Saja,25000,24
+905,3,Express 6 Jam,25000,6
+906,3,Cuci Kering,7000,6
+907,3,Cuci Jas,5000,48
+908,2,Express 6 Jam,5000,48
+909,1,Express 6 Jam,5000,48
+910,3,Cuci Jas,25000,48
+911,4,Setrika Saja,7000,48
+912,4,Cuci Kering,25000,48
+913,3,Cuci Kering,5000,24
+914,4,Setrika Saja,5000,48
+915,3,Express 6 Jam,5000,24
+916,3,Express 6 Jam,4000,24
+917,1,Cuci Komplit,5000,12
+918,4,Cuci Jas,5000,48
+919,4,Setrika Saja,5000,48
+920,3,Cuci Jas,15000,6
+921,2,Cuci Jas,7000,6
+922,3,Express 6 Jam,5000,48
+923,4,Express 6 Jam,7000,6
+924,4,Cuci Kering,25000,48
+925,2,Express 6 Jam,7000,48
+926,2,Express 6 Jam,4000,6
+927,1,Cuci Jas,5000,24
+928,1,Cuci Jas,5000,48
+929,1,Cuci Komplit,15000,12
+930,2,Cuci Komplit,15000,48
+931,1,Setrika Saja,15000,6
+932,2,Cuci Komplit,5000,12
+933,4,Cuci Jas,15000,48
+934,2,Cuci Jas,25000,24
+935,4,Cuci Jas,15000,24
+936,4,Cuci Kering,4000,24
+937,1,Cuci Komplit,25000,12
+938,1,Setrika Saja,7000,6
+939,4,Express 6 Jam,7000,6
+940,3,Cuci Jas,25000,24
+941,2,Cuci Kering,15000,24
+942,2,Setrika Saja,4000,12
+943,2,Setrika Saja,5000,48
+944,1,Cuci Jas,25000,24
+945,3,Cuci Kering,15000,24
+946,1,Setrika Saja,4000,12
+947,1,Cuci Komplit,4000,12
+948,3,Express 6 Jam,5000,6
+949,4,Setrika Saja,15000,24
+950,4,Express 6 Jam,7000,6
+951,2,Cuci Jas,4000,24
+952,3,Cuci Komplit,7000,48
+953,2,Cuci Kering,4000,48
+954,2,Express 6 Jam,4000,24
+955,4,Cuci Komplit,5000,24
+956,3,Setrika Saja,7000,48
+957,1,Cuci Komplit,25000,24
+958,3,Cuci Komplit,15000,24
+959,3,Express 6 Jam,25000,48
+960,4,Cuci Jas,15000,12
+961,3,Cuci Jas,5000,48
+962,4,Setrika Saja,5000,24
+963,4,Cuci Kering,15000,6
+964,2,Cuci Komplit,4000,48
+965,2,Cuci Komplit,7000,12
+966,1,Cuci Kering,5000,12
+967,4,Cuci Kering,15000,48
+968,1,Setrika Saja,5000,12
+969,2,Cuci Komplit,15000,48
+970,2,Cuci Jas,7000,48
+971,3,Express 6 Jam,4000,48
+972,3,Cuci Kering,7000,12
+973,3,Cuci Kering,5000,6
+974,2,Cuci Kering,25000,24
+975,4,Express 6 Jam,5000,24
+976,4,Cuci Kering,7000,48
+977,3,Cuci Jas,7000,12
+978,3,Cuci Kering,25000,12
+979,2,Cuci Komplit,5000,6
+980,3,Cuci Jas,25000,12
+981,1,Express 6 Jam,4000,24
+982,2,Express 6 Jam,15000,24
+983,2,Cuci Kering,4000,6
+984,4,Cuci Jas,7000,6
+985,2,Express 6 Jam,25000,6
+986,4,Express 6 Jam,5000,24
+987,4,Cuci Jas,15000,24
+988,1,Cuci Komplit,4000,48
+989,4,Setrika Saja,15000,48
+990,1,Cuci Komplit,7000,24
+991,3,Cuci Kering,25000,48
+992,2,Express 6 Jam,4000,12
+993,3,Cuci Komplit,5000,24
+994,1,Setrika Saja,4000,12
+995,4,Cuci Jas,4000,6
+996,2,Express 6 Jam,4000,24
+997,2,Cuci Komplit,4000,6
+998,2,Cuci Kering,15000,24
+999,1,Cuci Kering,5000,48
+1000,2,Cuci Kering,25000,48
